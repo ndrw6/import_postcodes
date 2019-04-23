@@ -1,5 +1,5 @@
 # import_postcodes
-Imports postcodes from [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html).
+Imports postcodes from [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html) and generates `.osm` files that can be open in jOSM. Performs optional filtering so that only postcodes that are not yet in OSM or only postcodes that are not in OSM and have a building nearby are included.
 
 ## Licensing
 Code-Point Open is an Ordnance Survey product [covered](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html) by the Open Government Licence (OGL).
@@ -21,7 +21,7 @@ Postcodes in the UK are very commonly used for geocoding. In general, a postcode
 
 ## Usage
 
-### Pre-generated .osm files in codepo_gb directory
+### Pre-generated `.osm` files
 
 A `osm_files` directory contains three versions of `.osm` files converted from source `.csv` files provided by Ordnance Survey. The variants are:
 1. `osm_files/centroids` - all CodePoint Open centroids. Each object is tagged with an `addr:postcode` tag and a `removemelater=yes` marker assisting in the cleaning process.
