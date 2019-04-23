@@ -1,5 +1,5 @@
 # import_postcodes
-Imports postcodes from [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html) and generates `.osm` files that can be open in jOSM. Performs optional filtering so that only postcodes that are not yet in OSM or only postcodes that are not in OSM and have a building nearby are included.
+Converts postcodes from [Code-Point Open](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html) format to `.osm` files that can be open in jOSM. Performs optional filtering so that only postcodes that are not yet in OSM or only postcodes that are not in OSM and have a building nearby are included.
 
 ## Licensing
 Code-Point Open is an Ordnance Survey product [covered](https://www.ordnancesurvey.co.uk/business-and-government/products/code-point-open.html) by the Open Government Licence (OGL).
