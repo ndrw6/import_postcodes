@@ -31,9 +31,9 @@ A `osm_files` directory contains three versions of `.osm` files converted from s
 A typical workflow may look as follows (jOSM only):
 1. (optional) Set up Ragged Red Code-Point Open tile background layer for previewing surrounding postcodes when no centroid files are loaded
 2. (recommended) Add `Postcodes_Map_Paint_Style.mapcss` to _Preferences_/_Map Settings_/_Map Paint Styles_ to provide visual feedback on what OSM objects are tagged with `addr:postcode`.
-3. Download map data from the server, set bacground imagery etc.
+3. Download map data from the server, set the background imagery etc.
 4. Open one of the provided .osm files with Code-Point Open centroids
-5. Select all points in the centroids layer and merge them with (`Ctrl+Shift+m`) with the data layer. **IMPORTANT! DO NOT UPLOAD DATA TO OSM WITHOUT CLEANING THEM UP AS DESCRIBED BELOW**
+5. Select all points in the centroids layer and merge them (`Ctrl+Shift+m`) with the data layer. **IMPORTANT! DO NOT UPLOAD DATA TO OSM WITHOUT CLEANING THEM UP AS DESCRIBED BELOW**
 6. Manualy Copy->Paste tags from centroids to buildings taking time to think on what centroids are not suitable. Check the Caveats section below for potential problems. Code-Point Open data are purposely made imprecise, so please refrain from automatic editing.
    - (recommended) re-map _Copy Tags_ and _Paste Tags_ to more ergonomic key combinations. These shortcuts are used a lot.
 7. **IMPORTANT: Cleaning up:**
@@ -57,6 +57,6 @@ This may be useful when more frequent updates are needed. For example, when addi
 Procedure:
 1. Request a copy of Code-Point Open data from Ordnance Survey, place it in `codepo_gb` directory and unzip it.
 2. Download a current extract of OSM UK data and pre-process it using a `download_map_data.sh` script. Note that this will download about 1GB of data from [GeoFabrik](http://download.geofabrik.de/europe/)
-3. Run an `import_postcodes.py` to process the data and produce three sets of `.osm` files. Note that this is a very slow process and it requires at least 16GB or RAM. This is mainly because it uses a slow GeoPandas library (specifically, its `sjoin` function) but rewriting the code using different tools would take more time and effor than occasionally running the script overnight.
+3. Run an `import_postcodes.py` to process the data and produce three sets of `.osm` files. Note that this is a very slow process and it requires at least 16GB or RAM. This is mainly because it uses a slow GeoPandas library (specifically, its `sjoin` function) but rewriting the code using different tools would take more time and effort than occasionally running the script overnight.
 
 
