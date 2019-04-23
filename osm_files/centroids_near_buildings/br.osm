@@ -1,0 +1,3370 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="import_postcodes.py" upload="false">
+  <node id="-1" lat="51.401545594463656" lon="0.01541473268016932">
+    <tag k="addr:postcode" v="BR1 1AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-2" lat="51.40633333672922" lon="0.015208263665157661">
+    <tag k="addr:postcode" v="BR1 1AB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-3" lat="51.40139175195404" lon="0.014947901580825228">
+    <tag k="addr:postcode" v="BR1 1AF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-4" lat="51.40139175195404" lon="0.014947901580825228">
+    <tag k="addr:postcode" v="BR1 1AG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-5" lat="51.408057509685044" lon="0.01587362006472512">
+    <tag k="addr:postcode" v="BR1 1BQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-6" lat="51.39899669995948" lon="0.016165266017443277">
+    <tag k="addr:postcode" v="BR1 1BW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-7" lat="51.40389063274953" lon="0.016581799320449384">
+    <tag k="addr:postcode" v="BR1 1DD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-8" lat="51.40856195904916" lon="0.010589822272015978">
+    <tag k="addr:postcode" v="BR1 1DE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-9" lat="51.409531356412764" lon="0.0101722004019074">
+    <tag k="addr:postcode" v="BR1 1DG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-10" lat="51.403890880003466" lon="0.016567432293147864">
+    <tag k="addr:postcode" v="BR1 1DJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-11" lat="51.40919185773563" lon="0.010042273327193707">
+    <tag k="addr:postcode" v="BR1 1DL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-12" lat="51.403890880003466" lon="0.016567432293147864">
+    <tag k="addr:postcode" v="BR1 1DN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-13" lat="51.39899669995948" lon="0.016165266017443277">
+    <tag k="addr:postcode" v="BR1 1DP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-14" lat="51.39976826410108" lon="0.01627107959876365">
+    <tag k="addr:postcode" v="BR1 1DS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-15" lat="51.39899669995948" lon="0.016165266017443277">
+    <tag k="addr:postcode" v="BR1 1DU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-16" lat="51.39937189138653" lon="0.017878190848905882">
+    <tag k="addr:postcode" v="BR1 1ER"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-17" lat="51.4025300156011" lon="0.015170462470584602">
+    <tag k="addr:postcode" v="BR1 1EW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-18" lat="51.40376545827036" lon="0.014448368910007482">
+    <tag k="addr:postcode" v="BR1 1EX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-19" lat="51.40376545827036" lon="0.014448368910007482">
+    <tag k="addr:postcode" v="BR1 1HA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-20" lat="51.40389063274953" lon="0.016581799320449384">
+    <tag k="addr:postcode" v="BR1 1HD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-21" lat="51.40372259758505" lon="0.014849065126851177">
+    <tag k="addr:postcode" v="BR1 1HG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-22" lat="51.4003896060818" lon="0.015177015273777933">
+    <tag k="addr:postcode" v="BR1 1HN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-23" lat="51.40078060666374" lon="0.014403471393846219">
+    <tag k="addr:postcode" v="BR1 1HP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-24" lat="51.40164756096345" lon="0.014714732763352946">
+    <tag k="addr:postcode" v="BR1 1HR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-25" lat="51.40209538141169" lon="0.014820677779261722">
+    <tag k="addr:postcode" v="BR1 1HU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-26" lat="51.40094818515488" lon="0.013548216217321505">
+    <tag k="addr:postcode" v="BR1 1HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-27" lat="51.401140542837304" lon="0.014390532958766043">
+    <tag k="addr:postcode" v="BR1 1HX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-28" lat="51.40484742725145" lon="0.015329853595565586">
+    <tag k="addr:postcode" v="BR1 1JD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-29" lat="51.404271826178366" lon="0.015333303003104079">
+    <tag k="addr:postcode" v="BR1 1JF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-30" lat="51.404505957555045" lon="0.015314840580381016">
+    <tag k="addr:postcode" v="BR1 1JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-31" lat="51.40687324055387" lon="0.01518886493438276">
+    <tag k="addr:postcode" v="BR1 1JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-32" lat="51.40316110601678" lon="0.015600780037832968">
+    <tag k="addr:postcode" v="BR1 1JW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-33" lat="51.40257891814207" lon="0.01650971888214561">
+    <tag k="addr:postcode" v="BR1 1LP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-34" lat="51.40257669289717" lon="0.016639018425516214">
+    <tag k="addr:postcode" v="BR1 1LR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-35" lat="51.40246003560341" lon="0.016101920698740772">
+    <tag k="addr:postcode" v="BR1 1LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-36" lat="51.40007272173752" lon="0.017391475831712695">
+    <tag k="addr:postcode" v="BR1 1LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-37" lat="51.40556334528929" lon="0.015533871649629606">
+    <tag k="addr:postcode" v="BR1 1NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-38" lat="51.40551560677557" lon="0.01517231219642328">
+    <tag k="addr:postcode" v="BR1 1NF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-39" lat="51.40516095034988" lon="0.015401151378072811">
+    <tag k="addr:postcode" v="BR1 1NG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-40" lat="51.40610469952052" lon="0.01386100209174599">
+    <tag k="addr:postcode" v="BR1 1NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-41" lat="51.40803837570831" lon="0.012277978093961577">
+    <tag k="addr:postcode" v="BR1 1PE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-42" lat="51.40643202549477" lon="0.015744614529652923">
+    <tag k="addr:postcode" v="BR1 1QX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-43" lat="51.407719104880215" lon="0.010969842043337076">
+    <tag k="addr:postcode" v="BR1 1RA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-44" lat="51.40608329999926" lon="0.015628628342204298">
+    <tag k="addr:postcode" v="BR1 1RN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-45" lat="51.40626624468539" lon="0.017017023705736125">
+    <tag k="addr:postcode" v="BR1 1RW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-46" lat="51.4037988290249" lon="0.05755482115347836">
+    <tag k="addr:postcode" v="BR1 2BH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-47" lat="51.403877837564174" lon="0.0581766208188306">
+    <tag k="addr:postcode" v="BR1 2RR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-48" lat="51.403538751578736" lon="0.03433729436919288">
+    <tag k="addr:postcode" v="BR1 2TJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-49" lat="51.406251381159684" lon="0.019446361263872693">
+    <tag k="addr:postcode" v="BR1 3BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-50" lat="51.40697367003511" lon="0.02865191467659421">
+    <tag k="addr:postcode" v="BR1 3DH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-51" lat="51.4054513985637" lon="0.017858249078998762">
+    <tag k="addr:postcode" v="BR1 3EA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-52" lat="51.403444297266596" lon="0.017956807593961722">
+    <tag k="addr:postcode" v="BR1 3EF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-53" lat="51.418470367951734" lon="0.03569059571163002">
+    <tag k="addr:postcode" v="BR1 3FJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-54" lat="51.41763866163138" lon="0.036976809602573775">
+    <tag k="addr:postcode" v="BR1 3FZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-55" lat="51.41061416193814" lon="0.02458533169139309">
+    <tag k="addr:postcode" v="BR1 3HZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-56" lat="51.409051578097625" lon="0.01820368824401691">
+    <tag k="addr:postcode" v="BR1 3JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-57" lat="51.417647450999645" lon="0.025054313096765687">
+    <tag k="addr:postcode" v="BR1 3NE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-58" lat="51.40827012960607" lon="0.017105210559795872">
+    <tag k="addr:postcode" v="BR1 3NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-59" lat="51.408801157711196" lon="0.013418685326611661">
+    <tag k="addr:postcode" v="BR1 3PX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-60" lat="51.41073200910599" lon="0.011475927699566563">
+    <tag k="addr:postcode" v="BR1 3RB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-61" lat="51.40912638900941" lon="0.008615828168245146">
+    <tag k="addr:postcode" v="BR1 3RY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-62" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 3UH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-63" lat="51.40842305626699" lon="0.01657990583925159">
+    <tag k="addr:postcode" v="BR1 3WA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-64" lat="51.41036495020085" lon="0.004557455423940608">
+    <tag k="addr:postcode" v="BR1 4AY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-65" lat="51.40969088342062" lon="0.005060021474722323">
+    <tag k="addr:postcode" v="BR1 4AZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-66" lat="51.4161935162461" lon="0.0023819239307631165">
+    <tag k="addr:postcode" v="BR1 4JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-67" lat="51.42602465275129" lon="-0.005646594602569159">
+    <tag k="addr:postcode" v="BR1 4PJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-68" lat="51.42290055019579" lon="0.012973929161322227">
+    <tag k="addr:postcode" v="BR1 4SJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-69" lat="51.42261744070132" lon="0.012702580477179962">
+    <tag k="addr:postcode" v="BR1 4SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-70" lat="51.421270907107484" lon="0.021446038505263835">
+    <tag k="addr:postcode" v="BR1 5AB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-71" lat="51.418671844034044" lon="0.02249634819980562">
+    <tag k="addr:postcode" v="BR1 5AG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-72" lat="51.419373054312594" lon="0.02303070079857895">
+    <tag k="addr:postcode" v="BR1 5AT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-73" lat="51.4253009738738" lon="0.028657981175589056">
+    <tag k="addr:postcode" v="BR1 5BD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-74" lat="51.42502753321063" lon="0.026790261769459745">
+    <tag k="addr:postcode" v="BR1 5BG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-75" lat="51.423622952504864" lon="0.02636851048887048">
+    <tag k="addr:postcode" v="BR1 5BH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-76" lat="51.424042693470575" lon="0.028616638365197275">
+    <tag k="addr:postcode" v="BR1 5BJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-77" lat="51.423742425262965" lon="0.028819102951109184">
+    <tag k="addr:postcode" v="BR1 5BL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-78" lat="51.421885424708535" lon="0.021271785215707738">
+    <tag k="addr:postcode" v="BR1 5BN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-79" lat="51.42478725270874" lon="0.028203694145222606">
+    <tag k="addr:postcode" v="BR1 5BP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-80" lat="51.42279001115409" lon="0.023569964016944757">
+    <tag k="addr:postcode" v="BR1 5BX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-81" lat="51.422254593762304" lon="0.021244923215176098">
+    <tag k="addr:postcode" v="BR1 5BY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-82" lat="51.42622112448648" lon="-0.005566115533514015">
+    <tag k="addr:postcode" v="BR1 5PX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-83" lat="51.42846574324225" lon="-0.0006060430422894919">
+    <tag k="addr:postcode" v="BR1 5QF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-84" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-85" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-86" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-87" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-88" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-89" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-90" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-91" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-92" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-93" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-94" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-95" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-96" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-97" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-98" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9ST"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-99" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-100" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-101" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-102" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-103" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9SZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-104" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-105" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9TB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-106" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9TD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-107" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9TE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-108" lat="51.40387921224745" lon="0.02037706372075128">
+    <tag k="addr:postcode" v="BR1 9TF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-109" lat="51.405550623897405" lon="0.0015862546857562266">
+    <tag k="addr:postcode" v="BR2 0DP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-110" lat="51.399403031166536" lon="-0.0065316929673365645">
+    <tag k="addr:postcode" v="BR2 0JL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-111" lat="51.398490174149295" lon="-0.005205647559786328">
+    <tag k="addr:postcode" v="BR2 0LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-112" lat="51.39825353421875" lon="-0.004511514612655536">
+    <tag k="addr:postcode" v="BR2 0NF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-113" lat="51.398169410227624" lon="-0.003796372472052114">
+    <tag k="addr:postcode" v="BR2 0NG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-114" lat="51.399328937690356" lon="-0.00429219147196587">
+    <tag k="addr:postcode" v="BR2 0NH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-115" lat="51.39763139441403" lon="-0.003359767523938823">
+    <tag k="addr:postcode" v="BR2 0NQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-116" lat="51.39766310399366" lon="-0.002582087410114323">
+    <tag k="addr:postcode" v="BR2 0NR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-117" lat="51.3967400511559" lon="-0.003297952414192733">
+    <tag k="addr:postcode" v="BR2 0NS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-118" lat="51.39569980410974" lon="-0.0013594595031993844">
+    <tag k="addr:postcode" v="BR2 0NT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-119" lat="51.39547359083112" lon="-0.0023324597598930125">
+    <tag k="addr:postcode" v="BR2 0PA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-120" lat="51.394395984423774" lon="0.0007399461744538943">
+    <tag k="addr:postcode" v="BR2 0PB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-121" lat="51.39361918173396" lon="-0.00011330104790916514">
+    <tag k="addr:postcode" v="BR2 0PD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-122" lat="51.39667573599233" lon="0.008357869058624696">
+    <tag k="addr:postcode" v="BR2 0PG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-123" lat="51.39791654178917" lon="0.006270194058632261">
+    <tag k="addr:postcode" v="BR2 0PH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-124" lat="51.398034345024854" lon="0.006217844675194658">
+    <tag k="addr:postcode" v="BR2 0PJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-125" lat="51.39814932629975" lon="0.0068554235444255466">
+    <tag k="addr:postcode" v="BR2 0PQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-126" lat="51.39639198676318" lon="0.009696741044414502">
+    <tag k="addr:postcode" v="BR2 0PS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-127" lat="51.397109771333305" lon="0.009268177779641356">
+    <tag k="addr:postcode" v="BR2 0PT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-128" lat="51.39875570591816" lon="0.007155114899234655">
+    <tag k="addr:postcode" v="BR2 0PZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-129" lat="51.397986105875205" lon="0.007983985960960486">
+    <tag k="addr:postcode" v="BR2 0QA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-130" lat="51.39449406431505" lon="0.006048574827468418">
+    <tag k="addr:postcode" v="BR2 0QT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-131" lat="51.39498105090539" lon="0.007018635395594455">
+    <tag k="addr:postcode" v="BR2 0QU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-132" lat="51.39462541275011" lon="0.006255570673908486">
+    <tag k="addr:postcode" v="BR2 0QX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-133" lat="51.39457294898502" lon="0.005117653477832594">
+    <tag k="addr:postcode" v="BR2 0RA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-134" lat="51.398677045738054" lon="0.009121217809079459">
+    <tag k="addr:postcode" v="BR2 0RF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-135" lat="51.3955670940035" lon="0.0021998207769072017">
+    <tag k="addr:postcode" v="BR2 0RL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-136" lat="51.392594340890454" lon="0.0009200800746705061">
+    <tag k="addr:postcode" v="BR2 0RZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-137" lat="51.39831597553826" lon="0.010773027988814013">
+    <tag k="addr:postcode" v="BR2 0SG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-138" lat="51.3991712661641" lon="0.010192353286868079">
+    <tag k="addr:postcode" v="BR2 0SJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-139" lat="51.398223916445666" lon="0.009848919318292718">
+    <tag k="addr:postcode" v="BR2 0SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-140" lat="51.39799480603222" lon="0.011147095911918398">
+    <tag k="addr:postcode" v="BR2 0SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-141" lat="51.39777544145664" lon="0.01135311335138154">
+    <tag k="addr:postcode" v="BR2 0SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-142" lat="51.402058132553066" lon="0.005459407447559582">
+    <tag k="addr:postcode" v="BR2 0ST"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-143" lat="51.39803249805991" lon="0.009998664894523699">
+    <tag k="addr:postcode" v="BR2 0TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-144" lat="51.39846973627835" lon="0.015955202347880594">
+    <tag k="addr:postcode" v="BR2 0TB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-145" lat="51.395891237155936" lon="0.008481637000188499">
+    <tag k="addr:postcode" v="BR2 0TD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-146" lat="51.39559149454441" lon="0.007605990569570595">
+    <tag k="addr:postcode" v="BR2 0TR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-147" lat="51.392007052648005" lon="0.0010813195783628592">
+    <tag k="addr:postcode" v="BR2 0TZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-148" lat="51.392503096652995" lon="0.0004704955588474996">
+    <tag k="addr:postcode" v="BR2 0UD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-149" lat="51.39281763321718" lon="0.003114731998488989">
+    <tag k="addr:postcode" v="BR2 0UL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-150" lat="51.39076643815968" lon="0.0026370481502217768">
+    <tag k="addr:postcode" v="BR2 0UQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-151" lat="51.39486251399045" lon="0.00816345145625574">
+    <tag k="addr:postcode" v="BR2 0UR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-152" lat="51.39301782602864" lon="0.0040290680687511795">
+    <tag k="addr:postcode" v="BR2 0UY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-153" lat="51.39781867101806" lon="0.010406194563055894">
+    <tag k="addr:postcode" v="BR2 0XT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-154" lat="51.396237450200246" lon="0.01188941795175361">
+    <tag k="addr:postcode" v="BR2 0YA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-155" lat="51.39506377757251" lon="0.008488518277023448">
+    <tag k="addr:postcode" v="BR2 0YE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-156" lat="51.36315913655596" lon="0.024043189443446612">
+    <tag k="addr:postcode" v="BR2 6AJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-157" lat="51.356376306242765" lon="0.031959844436544135">
+    <tag k="addr:postcode" v="BR2 6BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-158" lat="51.348094068452106" lon="0.03660522162777643">
+    <tag k="addr:postcode" v="BR2 6DA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-159" lat="51.34688519780299" lon="0.03630750026019757">
+    <tag k="addr:postcode" v="BR2 6DB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-160" lat="51.35276204968098" lon="0.036568077289614864">
+    <tag k="addr:postcode" v="BR2 6HU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-161" lat="51.353788166719475" lon="0.04013233366876258">
+    <tag k="addr:postcode" v="BR2 6HZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-162" lat="51.370619572950645" lon="0.00858234378439954">
+    <tag k="addr:postcode" v="BR2 7AL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-163" lat="51.370084416201195" lon="0.017222402915256788">
+    <tag k="addr:postcode" v="BR2 7EG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-164" lat="51.37664973686796" lon="0.010915486817132726">
+    <tag k="addr:postcode" v="BR2 7EJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-165" lat="51.37625078359019" lon="0.010581879742421056">
+    <tag k="addr:postcode" v="BR2 7EN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-166" lat="51.37734805111646" lon="0.016851986598903544">
+    <tag k="addr:postcode" v="BR2 7LP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-167" lat="51.38369170625351" lon="0.015593122377576684">
+    <tag k="addr:postcode" v="BR2 7NH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-168" lat="51.38241334227649" lon="0.0591104580485621">
+    <tag k="addr:postcode" v="BR2 8BT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-169" lat="51.38789672716474" lon="0.03556939733291648">
+    <tag k="addr:postcode" v="BR2 8HB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-170" lat="51.38666015244075" lon="0.03479589177902168">
+    <tag k="addr:postcode" v="BR2 8HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-171" lat="51.387266306485415" lon="0.042339721621283674">
+    <tag k="addr:postcode" v="BR2 8JY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-172" lat="51.375409240403414" lon="0.049801111134014656">
+    <tag k="addr:postcode" v="BR2 8NU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-173" lat="51.39814038797623" lon="0.01837028215181818">
+    <tag k="addr:postcode" v="BR2 9BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-174" lat="51.38961284827781" lon="0.014847194359947179">
+    <tag k="addr:postcode" v="BR2 9BL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-175" lat="51.38920047696324" lon="0.014771585221721112">
+    <tag k="addr:postcode" v="BR2 9BN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-176" lat="51.38919142858438" lon="0.01582043791971783">
+    <tag k="addr:postcode" v="BR2 9BP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-177" lat="51.39009324748599" lon="0.015673219510278225">
+    <tag k="addr:postcode" v="BR2 9BS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-178" lat="51.39010618687138" lon="0.015443810960920814">
+    <tag k="addr:postcode" v="BR2 9BT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-179" lat="51.39722324736985" lon="0.021492588871640284">
+    <tag k="addr:postcode" v="BR2 9BU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-180" lat="51.38909767823619" lon="0.014997041506316878">
+    <tag k="addr:postcode" v="BR2 9BW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-181" lat="51.3924221048465" lon="0.009407766757695123">
+    <tag k="addr:postcode" v="BR2 9DE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-182" lat="51.391725256234864" lon="0.008615407400996495">
+    <tag k="addr:postcode" v="BR2 9DF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-183" lat="51.38898289181058" lon="0.009113352092247987">
+    <tag k="addr:postcode" v="BR2 9DS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-184" lat="51.394323734998295" lon="0.02119226457110537">
+    <tag k="addr:postcode" v="BR2 9EB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-185" lat="51.394017399935194" lon="0.020704393262742496">
+    <tag k="addr:postcode" v="BR2 9EH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-186" lat="51.39752895483796" lon="0.020974158334474555">
+    <tag k="addr:postcode" v="BR2 9EX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-187" lat="51.398653087023625" lon="0.01836410004635713">
+    <tag k="addr:postcode" v="BR2 9EY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-188" lat="51.39790499275519" lon="0.020027539245612867">
+    <tag k="addr:postcode" v="BR2 9EZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-189" lat="51.3980876128746" lon="0.0193455328555518">
+    <tag k="addr:postcode" v="BR2 9GA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-190" lat="51.39670694772724" lon="0.02066478927152276">
+    <tag k="addr:postcode" v="BR2 9GD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-191" lat="51.397138703637815" lon="0.020137536820824357">
+    <tag k="addr:postcode" v="BR2 9GE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-192" lat="51.38781034299421" lon="0.03846888923832508">
+    <tag k="addr:postcode" v="BR2 9GN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-193" lat="51.39829232740252" lon="0.01633555770007743">
+    <tag k="addr:postcode" v="BR2 9GP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-194" lat="51.388048724968606" lon="0.03820639749189523">
+    <tag k="addr:postcode" v="BR2 9GU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-195" lat="51.3977557163732" lon="0.021904216869093482">
+    <tag k="addr:postcode" v="BR2 9GW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-196" lat="51.39840164650216" lon="0.01782111217783853">
+    <tag k="addr:postcode" v="BR2 9HA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-197" lat="51.39899851553254" lon="0.01814928496042542">
+    <tag k="addr:postcode" v="BR2 9HD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-198" lat="51.396883080935474" lon="0.021923238662945193">
+    <tag k="addr:postcode" v="BR2 9HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-199" lat="51.396883080935474" lon="0.021923238662945193">
+    <tag k="addr:postcode" v="BR2 9HJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-200" lat="51.39319412193487" lon="0.03190902662816599">
+    <tag k="addr:postcode" v="BR2 9HP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-201" lat="51.39829977059466" lon="0.021123144361586885">
+    <tag k="addr:postcode" v="BR2 9HS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-202" lat="51.39577644347029" lon="0.02559766148866564">
+    <tag k="addr:postcode" v="BR2 9HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-203" lat="51.39620573823804" lon="0.025214112022400946">
+    <tag k="addr:postcode" v="BR2 9HY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-204" lat="51.39661863782432" lon="0.02317663322793923">
+    <tag k="addr:postcode" v="BR2 9JJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-205" lat="51.39621336609921" lon="0.02685325750747388">
+    <tag k="addr:postcode" v="BR2 9LY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-206" lat="51.39487570255367" lon="0.030876657690302966">
+    <tag k="addr:postcode" v="BR2 9NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-207" lat="51.39516074057337" lon="0.030515527101362402">
+    <tag k="addr:postcode" v="BR2 9ND"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-208" lat="51.395230698148694" lon="0.0321861500562064">
+    <tag k="addr:postcode" v="BR2 9NP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-209" lat="51.389519186459516" lon="0.037423713388324564">
+    <tag k="addr:postcode" v="BR2 9PG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-210" lat="51.38931351268867" lon="0.03683964167399803">
+    <tag k="addr:postcode" v="BR2 9PW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-211" lat="51.392548377461125" lon="0.031808542472146956">
+    <tag k="addr:postcode" v="BR2 9RN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-212" lat="51.38937086624038" lon="0.032501426718779654">
+    <tag k="addr:postcode" v="BR2 9SX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-213" lat="51.39011853809397" lon="0.014725674712603035">
+    <tag k="addr:postcode" v="BR2 9UN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-214" lat="51.39978473058816" lon="0.014791012550506043">
+    <tag k="addr:postcode" v="BR2 9UZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-215" lat="51.39067891391147" lon="0.016130173026052054">
+    <tag k="addr:postcode" v="BR2 9YG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-216" lat="51.40640443600757" lon="-0.030225134307482273">
+    <tag k="addr:postcode" v="BR3 1AH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-217" lat="51.41477847417198" lon="-0.034078881757416635">
+    <tag k="addr:postcode" v="BR3 1AU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-218" lat="51.40917914571308" lon="-0.024641682224741494">
+    <tag k="addr:postcode" v="BR3 1AX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-219" lat="51.42241679733802" lon="-0.03750522985808929">
+    <tag k="addr:postcode" v="BR3 1BW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-220" lat="51.419992367390755" lon="-0.03021629266228456">
+    <tag k="addr:postcode" v="BR3 1DQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-221" lat="51.419304542148666" lon="-0.027283037918874285">
+    <tag k="addr:postcode" v="BR3 1DR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-222" lat="51.419727462833166" lon="-0.02943662886528373">
+    <tag k="addr:postcode" v="BR3 1DS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-223" lat="51.40687867393305" lon="-0.03115375171742332">
+    <tag k="addr:postcode" v="BR3 1DY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-224" lat="51.40675876556757" lon="-0.030439966631999396">
+    <tag k="addr:postcode" v="BR3 1DZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-225" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 1GF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-226" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 1GP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-227" lat="51.418507018418794" lon="-0.041929890404639826">
+    <tag k="addr:postcode" v="BR3 1JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-228" lat="51.42296528221625" lon="-0.03696391613650784">
+    <tag k="addr:postcode" v="BR3 1JT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-229" lat="51.409032779805976" lon="-0.030371005088795106">
+    <tag k="addr:postcode" v="BR3 1JW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-230" lat="51.42167164153434" lon="-0.03919124030135194">
+    <tag k="addr:postcode" v="BR3 1JX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-231" lat="51.420965238349865" lon="-0.03996939910274752">
+    <tag k="addr:postcode" v="BR3 1LB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-232" lat="51.42175483256222" lon="-0.03986369966219686">
+    <tag k="addr:postcode" v="BR3 1LF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-233" lat="51.42184848197097" lon="-0.039011069967645265">
+    <tag k="addr:postcode" v="BR3 1LH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-234" lat="51.41344992335948" lon="-0.04551108830884394">
+    <tag k="addr:postcode" v="BR3 1LU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-235" lat="51.42143992107041" lon="-0.039316224710794684">
+    <tag k="addr:postcode" v="BR3 1LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-236" lat="51.415203723077695" lon="-0.03423321350297757">
+    <tag k="addr:postcode" v="BR3 1NJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-237" lat="51.415040041143754" lon="-0.03412518496856194">
+    <tag k="addr:postcode" v="BR3 1NX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-238" lat="51.41382084390658" lon="-0.02579340584731477">
+    <tag k="addr:postcode" v="BR3 1PJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-239" lat="51.413869434942484" lon="-0.025474931410160467">
+    <tag k="addr:postcode" v="BR3 1PL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-240" lat="51.41426138257164" lon="-0.026320907187597047">
+    <tag k="addr:postcode" v="BR3 1PN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-241" lat="51.41451205921393" lon="-0.02572048269529872">
+    <tag k="addr:postcode" v="BR3 1PP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-242" lat="51.414701709170764" lon="-0.026301941475096815">
+    <tag k="addr:postcode" v="BR3 1PR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-243" lat="51.41471314611467" lon="-0.025913155924841443">
+    <tag k="addr:postcode" v="BR3 1PS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-244" lat="51.41490911917145" lon="-0.026336151603444047">
+    <tag k="addr:postcode" v="BR3 1PT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-245" lat="51.41362925417132" lon="-0.025096996762195085">
+    <tag k="addr:postcode" v="BR3 1PU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-246" lat="51.41444349501491" lon="-0.026988976611466868">
+    <tag k="addr:postcode" v="BR3 1PW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-247" lat="51.4139228941766" lon="-0.024911769929581638">
+    <tag k="addr:postcode" v="BR3 1PX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-248" lat="51.41423254390634" lon="-0.025142901607303276">
+    <tag k="addr:postcode" v="BR3 1PY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-249" lat="51.41455750197211" lon="-0.02521518377445391">
+    <tag k="addr:postcode" v="BR3 1PZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-250" lat="51.41484019237236" lon="-0.025447482293150893">
+    <tag k="addr:postcode" v="BR3 1QA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-251" lat="51.415126513809994" lon="-0.025895347427286008">
+    <tag k="addr:postcode" v="BR3 1QB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-252" lat="51.41518890326182" lon="-0.02639600747717882">
+    <tag k="addr:postcode" v="BR3 1QE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-253" lat="51.415523195970685" lon="-0.03344290918501527">
+    <tag k="addr:postcode" v="BR3 1QL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-254" lat="51.417278667802925" lon="-0.04268710222511368">
+    <tag k="addr:postcode" v="BR3 1QP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-255" lat="51.41689502816404" lon="-0.04340820231998231">
+    <tag k="addr:postcode" v="BR3 1QR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-256" lat="51.417885348652966" lon="-0.04509177404836328">
+    <tag k="addr:postcode" v="BR3 1QS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-257" lat="51.42301903844908" lon="-0.03802601427791419">
+    <tag k="addr:postcode" v="BR3 1QZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-258" lat="51.41678199218138" lon="-0.03128913131184891">
+    <tag k="addr:postcode" v="BR3 1RA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-259" lat="51.416227162964354" lon="-0.026638920968235502">
+    <tag k="addr:postcode" v="BR3 1RF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-260" lat="51.416420032612784" lon="-0.02955011017285364">
+    <tag k="addr:postcode" v="BR3 1RG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-261" lat="51.41680479298694" lon="-0.03157578896419706">
+    <tag k="addr:postcode" v="BR3 1RQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-262" lat="51.413558842049596" lon="-0.024654224669174097">
+    <tag k="addr:postcode" v="BR3 1SE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-263" lat="51.4122902751756" lon="-0.025686777708019613">
+    <tag k="addr:postcode" v="BR3 1TL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-264" lat="51.41249112002248" lon="-0.025865071618638383">
+    <tag k="addr:postcode" v="BR3 1TR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-265" lat="51.41279570742481" lon="-0.04726466018960237">
+    <tag k="addr:postcode" v="BR3 1UF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-266" lat="51.41967126455352" lon="-0.021830556499055527">
+    <tag k="addr:postcode" v="BR3 1UH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-267" lat="51.41901964673084" lon="-0.02158542238858818">
+    <tag k="addr:postcode" v="BR3 1UL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-268" lat="51.41850985804316" lon="-0.0217512600641987">
+    <tag k="addr:postcode" v="BR3 1UN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-269" lat="51.41318489883532" lon="-0.027546491909088797">
+    <tag k="addr:postcode" v="BR3 1UR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-270" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 1WH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-271" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 1WL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-272" lat="51.40752906682601" lon="-0.031327119303768525">
+    <tag k="addr:postcode" v="BR3 1XF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-273" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 1XL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-274" lat="51.397612116986984" lon="-0.012805564314671886">
+    <tag k="addr:postcode" v="BR3 3AB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-275" lat="51.397134873319374" lon="-0.012768745179881455">
+    <tag k="addr:postcode" v="BR3 3AD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-276" lat="51.39605759374714" lon="-0.01500049269763444">
+    <tag k="addr:postcode" v="BR3 3AE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-277" lat="51.397457472956056" lon="-0.010052107040196403">
+    <tag k="addr:postcode" v="BR3 3AG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-278" lat="51.39330528460937" lon="-0.012848456848328417">
+    <tag k="addr:postcode" v="BR3 3AH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-279" lat="51.39514209846375" lon="-0.012452605656543601">
+    <tag k="addr:postcode" v="BR3 3AJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-280" lat="51.397494994023845" lon="-0.008555390492138597">
+    <tag k="addr:postcode" v="BR3 3AN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-281" lat="51.3900915068015" lon="-0.011061655026708698">
+    <tag k="addr:postcode" v="BR3 3AP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-282" lat="51.39679489303632" lon="-0.009692720900978478">
+    <tag k="addr:postcode" v="BR3 3AQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-283" lat="51.39393352841307" lon="-0.011714378880075524">
+    <tag k="addr:postcode" v="BR3 3AW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-284" lat="51.38830471024184" lon="-0.01812439488791079">
+    <tag k="addr:postcode" v="BR3 3BE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-285" lat="51.38892160606687" lon="-0.01897449983284223">
+    <tag k="addr:postcode" v="BR3 3BP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-286" lat="51.380261238929684" lon="-0.029623315284606967">
+    <tag k="addr:postcode" v="BR3 3BY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-287" lat="51.398483588373104" lon="-0.028193387071998314">
+    <tag k="addr:postcode" v="BR3 3DD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-288" lat="51.393587868781594" lon="-0.026908946122436855">
+    <tag k="addr:postcode" v="BR3 3JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-289" lat="51.398483588373104" lon="-0.028193387071998314">
+    <tag k="addr:postcode" v="BR3 3LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-290" lat="51.38033774215091" lon="-0.02668846182604362">
+    <tag k="addr:postcode" v="BR3 3SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-291" lat="51.389972471670056" lon="-0.015709451157131748">
+    <tag k="addr:postcode" v="BR3 3SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-292" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 3UX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-293" lat="51.39670491769487" lon="-0.048180005347593875">
+    <tag k="addr:postcode" v="BR3 4AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-294" lat="51.3939713851338" lon="-0.042805229651242185">
+    <tag k="addr:postcode" v="BR3 4AX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-295" lat="51.39456269727781" lon="-0.043211237792056365">
+    <tag k="addr:postcode" v="BR3 4AY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-296" lat="51.39738176927042" lon="-0.048323702052262794">
+    <tag k="addr:postcode" v="BR3 4BJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-297" lat="51.394976322722144" lon="-0.05292545085521724">
+    <tag k="addr:postcode" v="BR3 4BT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-298" lat="51.394853353853314" lon="-0.0514788035847303">
+    <tag k="addr:postcode" v="BR3 4BY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-299" lat="51.39533871353648" lon="-0.04930191541439728">
+    <tag k="addr:postcode" v="BR3 4BZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-300" lat="51.39579332918181" lon="-0.04852068798521134">
+    <tag k="addr:postcode" v="BR3 4DW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-301" lat="51.40703030333226" lon="-0.03268576974465285">
+    <tag k="addr:postcode" v="BR3 4ES"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-302" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-303" lat="51.40946428735613" lon="-0.04486142645293251">
+    <tag k="addr:postcode" v="BR3 4FD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-304" lat="51.408513495241706" lon="-0.03962480331248009">
+    <tag k="addr:postcode" v="BR3 4FP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-305" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4GX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-306" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4GZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-307" lat="51.40797542664329" lon="-0.033809909147180635">
+    <tag k="addr:postcode" v="BR3 4LR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-308" lat="51.40933629969072" lon="-0.039891579141611504">
+    <tag k="addr:postcode" v="BR3 4LU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-309" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4NB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-310" lat="51.40863074857046" lon="-0.03695962011770104">
+    <tag k="addr:postcode" v="BR3 4PE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-311" lat="51.408520798873525" lon="-0.03952383617424768">
+    <tag k="addr:postcode" v="BR3 4PU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-312" lat="51.4085418965079" lon="-0.03970986407070909">
+    <tag k="addr:postcode" v="BR3 4QD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-313" lat="51.40857222053469" lon="-0.03990987682194264">
+    <tag k="addr:postcode" v="BR3 4RS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-314" lat="51.40893696952235" lon="-0.04613492609225374">
+    <tag k="addr:postcode" v="BR3 4RT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-315" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4TH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-316" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4UJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-317" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4UL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-318" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4UN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-319" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4WR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-320" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4WX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-321" lat="51.39459829148989" lon="-0.04372721434271723">
+    <tag k="addr:postcode" v="BR3 4XH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-322" lat="51.39418694854697" lon="-0.043327894870004977">
+    <tag k="addr:postcode" v="BR3 4XN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-323" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4XX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-324" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4XY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-325" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4YH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-326" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4YL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-327" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4YQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-328" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4ZB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-329" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 4ZD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-330" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4ZF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-331" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4ZJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-332" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4ZL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-333" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 4ZT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-334" lat="51.41326091648021" lon="-0.02245242878696909">
+    <tag k="addr:postcode" v="BR3 5AR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-335" lat="51.413360505241506" lon="-0.021959183806500915">
+    <tag k="addr:postcode" v="BR3 5AS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-336" lat="51.414103204443464" lon="-0.01695128414410283">
+    <tag k="addr:postcode" v="BR3 5AZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-337" lat="51.41152068199752" lon="-0.024310671226579823">
+    <tag k="addr:postcode" v="BR3 5EH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-338" lat="51.411349740797625" lon="-0.023239528042743377">
+    <tag k="addr:postcode" v="BR3 5EJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-339" lat="51.415592726635815" lon="-0.006158204194440913">
+    <tag k="addr:postcode" v="BR3 5HG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-340" lat="51.40883064294736" lon="-0.02423970070907941">
+    <tag k="addr:postcode" v="BR3 5JG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-341" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 5UP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-342" lat="51.41138106242491" lon="-0.02349702022442071">
+    <tag k="addr:postcode" v="BR3 5XZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-343" lat="51.3987795211837" lon="-0.019080511045334994">
+    <tag k="addr:postcode" v="BR3 6RH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-344" lat="51.398793667034596" lon="-0.012481204679105353">
+    <tag k="addr:postcode" v="BR3 6RJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-345" lat="51.39835431758079" lon="-0.012557754498838496">
+    <tag k="addr:postcode" v="BR3 6RL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-346" lat="51.398696184104324" lon="-0.0056854763082791575">
+    <tag k="addr:postcode" v="BR3 6RP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-347" lat="51.39699461925913" lon="-0.005572602933084238">
+    <tag k="addr:postcode" v="BR3 6RR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-348" lat="51.39680743597215" lon="-0.006198897351750339">
+    <tag k="addr:postcode" v="BR3 6RS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-349" lat="51.39407483250772" lon="-0.003629627175887484">
+    <tag k="addr:postcode" v="BR3 6RT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-350" lat="51.39289676731456" lon="-0.002574082954425985">
+    <tag k="addr:postcode" v="BR3 6RU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-351" lat="51.39849260460125" lon="-0.007462599871601103">
+    <tag k="addr:postcode" v="BR3 6RW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-352" lat="51.392925225607" lon="-0.004772130356780783">
+    <tag k="addr:postcode" v="BR3 6RX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-353" lat="51.396101494360046" lon="-0.006991490644410976">
+    <tag k="addr:postcode" v="BR3 6RY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-354" lat="51.39591479178486" lon="-0.007646496659870111">
+    <tag k="addr:postcode" v="BR3 6RZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-355" lat="51.39636714710935" lon="-0.012572010467552713">
+    <tag k="addr:postcode" v="BR3 6SA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-356" lat="51.395091089450545" lon="-0.008918544377038611">
+    <tag k="addr:postcode" v="BR3 6SB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-357" lat="51.39287276302296" lon="-0.009618586160000274">
+    <tag k="addr:postcode" v="BR3 6SD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-358" lat="51.39455175970249" lon="-0.009991331989656274">
+    <tag k="addr:postcode" v="BR3 6SE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-359" lat="51.39245207187961" lon="-0.006560751874488716">
+    <tag k="addr:postcode" v="BR3 6SF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-360" lat="51.39474636441009" lon="-0.005569765342419776">
+    <tag k="addr:postcode" v="BR3 6SG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-361" lat="51.39324802877456" lon="-0.010004784769040433">
+    <tag k="addr:postcode" v="BR3 6SH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-362" lat="51.39194773088586" lon="-0.007574488407752482">
+    <tag k="addr:postcode" v="BR3 6SJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-363" lat="51.3916966558332" lon="-0.00814598375491731">
+    <tag k="addr:postcode" v="BR3 6SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-364" lat="51.390973543556065" lon="-0.010045984398988165">
+    <tag k="addr:postcode" v="BR3 6SN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-365" lat="51.39298231073653" lon="-0.001262282390835538">
+    <tag k="addr:postcode" v="BR3 6SP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-366" lat="51.39433079973573" lon="-0.005458466003286308">
+    <tag k="addr:postcode" v="BR3 6SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-367" lat="51.39211759821127" lon="-0.0006531323698171737">
+    <tag k="addr:postcode" v="BR3 6SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-368" lat="51.391187463199685" lon="-0.00940425206319598">
+    <tag k="addr:postcode" v="BR3 6SW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-369" lat="51.38981370540727" lon="-0.008472110276422274">
+    <tag k="addr:postcode" v="BR3 6TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-370" lat="51.391279839842404" lon="-0.005318054474599567">
+    <tag k="addr:postcode" v="BR3 6TH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-371" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 6WE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-372" lat="51.38898834263142" lon="-0.00753057290428386">
+    <tag k="addr:postcode" v="BR3 6YL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-373" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 6YT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-374" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 6ZB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-375" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9BB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-376" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9BR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-377" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9BU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-378" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9BW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-379" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9DE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-380" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9ED"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-381" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9ES"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-382" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9EX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-383" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-384" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9FN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-385" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9FR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-386" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9FT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-387" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-388" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-389" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-390" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-391" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-392" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-393" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9GZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-394" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-395" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-396" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-397" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-398" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-399" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9HZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-400" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9JB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-401" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-402" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9JT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-403" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-404" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-405" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-406" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-407" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-408" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-409" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-410" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-411" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-412" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-413" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-414" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-415" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-416" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-417" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-418" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-419" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9ND"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-420" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-421" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-422" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-423" lat="51.3963627165221" lon="-0.04815144544791381">
+    <tag k="addr:postcode" v="BR3 9NJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-424" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 9ZA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-425" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 9ZW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-426" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 9ZY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-427" lat="51.4089552680634" lon="-0.039692183903708524">
+    <tag k="addr:postcode" v="BR3 9ZZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-428" lat="51.37528567336944" lon="-0.012967926911205428">
+    <tag k="addr:postcode" v="BR4 0AP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-429" lat="51.38127495867153" lon="-0.014562358724557384">
+    <tag k="addr:postcode" v="BR4 0EH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-430" lat="51.38174999294891" lon="-0.013938222619610188">
+    <tag k="addr:postcode" v="BR4 0EJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-431" lat="51.38154158268798" lon="-0.013314928132952977">
+    <tag k="addr:postcode" v="BR4 0EN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-432" lat="51.38217699005009" lon="-0.01472451503094266">
+    <tag k="addr:postcode" v="BR4 0EQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-433" lat="51.38712422085313" lon="-0.002624257362870719">
+    <tag k="addr:postcode" v="BR4 0EY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-434" lat="51.38847771522436" lon="-0.0007830589207702858">
+    <tag k="addr:postcode" v="BR4 0EZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-435" lat="51.389355158708646" lon="0.0010231061796175964">
+    <tag k="addr:postcode" v="BR4 0HA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-436" lat="51.388032407732574" lon="1.6785989184102857e-05">
+    <tag k="addr:postcode" v="BR4 0HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-437" lat="51.38687507358023" lon="-0.0011978537333683435">
+    <tag k="addr:postcode" v="BR4 0HF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-438" lat="51.390947087085806" lon="0.0015381528263559555">
+    <tag k="addr:postcode" v="BR4 0HT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-439" lat="51.38923628476815" lon="0.001664717247900354">
+    <tag k="addr:postcode" v="BR4 0HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-440" lat="51.37642510474884" lon="-0.01705692334135679">
+    <tag k="addr:postcode" v="BR4 0PA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-441" lat="51.37708081385561" lon="-0.014887540787012274">
+    <tag k="addr:postcode" v="BR4 0PU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-442" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 0QE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-443" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 0QF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-444" lat="51.377075928717076" lon="-0.01406869435934925">
+    <tag k="addr:postcode" v="BR4 0QG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-445" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4AQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-446" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4AW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-447" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-448" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-449" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-450" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-451" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-452" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-453" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-454" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 4BS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-455" lat="51.37192317321644" lon="0.0033520258853003866">
+    <tag k="addr:postcode" v="BR4 9BU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-456" lat="51.36944737189838" lon="0.00035617492946688227">
+    <tag k="addr:postcode" v="BR4 9HR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-457" lat="51.369632964541886" lon="0.0015998372080447362">
+    <tag k="addr:postcode" v="BR4 9HU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-458" lat="51.369901628403305" lon="0.0027178299309986525">
+    <tag k="addr:postcode" v="BR4 9HY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-459" lat="51.36935660076236" lon="0.0014584812956541014">
+    <tag k="addr:postcode" v="BR4 9JB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-460" lat="51.369166262586276" lon="0.0010191715127379117">
+    <tag k="addr:postcode" v="BR4 9JF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-461" lat="51.36884545755308" lon="0.0008471494694479114">
+    <tag k="addr:postcode" v="BR4 9JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-462" lat="51.37239925643096" lon="-0.01935733841999777">
+    <tag k="addr:postcode" v="BR4 9NG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-463" lat="51.37616591903497" lon="-0.015027705160935682">
+    <tag k="addr:postcode" v="BR4 9TD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-464" lat="51.390406838286104" lon="0.07193139778734017">
+    <tag k="addr:postcode" v="BR5 1FE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-465" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 1XU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-466" lat="51.39708484567851" lon="0.11093313217038017">
+    <tag k="addr:postcode" v="BR5 2BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-467" lat="51.38992060636484" lon="0.10826043548972568">
+    <tag k="addr:postcode" v="BR5 2ED"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-468" lat="51.39687991741738" lon="0.11132622208030742">
+    <tag k="addr:postcode" v="BR5 2LH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-469" lat="51.40579836122213" lon="0.10346927389224712">
+    <tag k="addr:postcode" v="BR5 2QR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-470" lat="51.40644494943058" lon="0.09347687595999356">
+    <tag k="addr:postcode" v="BR5 2SU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-471" lat="51.40617043165033" lon="0.08971147849559294">
+    <tag k="addr:postcode" v="BR5 2TE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-472" lat="51.40671808465611" lon="0.09127499442597144">
+    <tag k="addr:postcode" v="BR5 2TF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-473" lat="51.40697638389646" lon="0.09393252067241771">
+    <tag k="addr:postcode" v="BR5 2TG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-474" lat="51.407879034838054" lon="0.09575679530552828">
+    <tag k="addr:postcode" v="BR5 2TH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-475" lat="51.408031797266496" lon="0.095260503140201">
+    <tag k="addr:postcode" v="BR5 2TJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-476" lat="51.39699665398695" lon="0.11183475534213398">
+    <tag k="addr:postcode" v="BR5 2TN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-477" lat="51.40670424622607" lon="0.09305735134629131">
+    <tag k="addr:postcode" v="BR5 2TQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-478" lat="51.392699265078484" lon="0.1077700769716551">
+    <tag k="addr:postcode" v="BR5 2UB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-479" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 2WQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-480" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 2YQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-481" lat="51.39398006254669" lon="0.10805895060553106">
+    <tag k="addr:postcode" v="BR5 3AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-482" lat="51.399164825928025" lon="0.1112876818536131">
+    <tag k="addr:postcode" v="BR5 3DA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-483" lat="51.3962002503329" lon="0.11360940927686725">
+    <tag k="addr:postcode" v="BR5 3EH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-484" lat="51.40699781762901" lon="0.11028248044266256">
+    <tag k="addr:postcode" v="BR5 3FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-485" lat="51.39320030384284" lon="0.11390237131151322">
+    <tag k="addr:postcode" v="BR5 3FB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-486" lat="51.39311105315169" lon="0.11486136296725355">
+    <tag k="addr:postcode" v="BR5 3FD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-487" lat="51.39324194647807" lon="0.11508302124740455">
+    <tag k="addr:postcode" v="BR5 3FE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-488" lat="51.392959768306135" lon="0.11377628542737954">
+    <tag k="addr:postcode" v="BR5 3FF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-489" lat="51.39272821811589" lon="0.11365061507184152">
+    <tag k="addr:postcode" v="BR5 3FH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-490" lat="51.39318759046077" lon="0.11610112087553705">
+    <tag k="addr:postcode" v="BR5 3FP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-491" lat="51.40475300317027" lon="0.1175696102544419">
+    <tag k="addr:postcode" v="BR5 3HP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-492" lat="51.403905513333115" lon="0.11768861734585127">
+    <tag k="addr:postcode" v="BR5 3HS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-493" lat="51.3952806167561" lon="0.11523456310157976">
+    <tag k="addr:postcode" v="BR5 3NL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-494" lat="51.39366608952036" lon="0.11001387498537736">
+    <tag k="addr:postcode" v="BR5 3PT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-495" lat="51.39301725164202" lon="0.11058775545702014">
+    <tag k="addr:postcode" v="BR5 3PU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-496" lat="51.38984297352571" lon="0.10907616643133064">
+    <tag k="addr:postcode" v="BR5 3PX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-497" lat="51.39107444433386" lon="0.10960714653070266">
+    <tag k="addr:postcode" v="BR5 3PZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-498" lat="51.40687772681533" lon="0.11743771144904347">
+    <tag k="addr:postcode" v="BR5 3QA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-499" lat="51.3907348042986" lon="0.10949090469330142">
+    <tag k="addr:postcode" v="BR5 3QB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-500" lat="51.4063612744085" lon="0.11565962854926856">
+    <tag k="addr:postcode" v="BR5 3QD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-501" lat="51.391430552210494" lon="0.11130530784801937">
+    <tag k="addr:postcode" v="BR5 3QF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-502" lat="51.407113200495964" lon="0.11585250835892179">
+    <tag k="addr:postcode" v="BR5 3QG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-503" lat="51.3950656514415" lon="0.11568465699321878">
+    <tag k="addr:postcode" v="BR5 3QH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-504" lat="51.40679465237939" lon="0.11556460134504101">
+    <tag k="addr:postcode" v="BR5 3QJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-505" lat="51.39555164606348" lon="0.11566395545489928">
+    <tag k="addr:postcode" v="BR5 3QQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-506" lat="51.39325553373955" lon="0.10834188675578428">
+    <tag k="addr:postcode" v="BR5 3QW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-507" lat="51.390460923274006" lon="0.11271242934208683">
+    <tag k="addr:postcode" v="BR5 3QX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-508" lat="51.39809420970333" lon="0.10981512783103063">
+    <tag k="addr:postcode" v="BR5 3QY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-509" lat="51.393597304154376" lon="0.11333130349718704">
+    <tag k="addr:postcode" v="BR5 3RD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-510" lat="51.39778493943787" lon="0.11100849456303742">
+    <tag k="addr:postcode" v="BR5 3RE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-511" lat="51.38891648777023" lon="0.11058588601455165">
+    <tag k="addr:postcode" v="BR5 3RG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-512" lat="51.39398691188288" lon="0.11067551222353315">
+    <tag k="addr:postcode" v="BR5 3RJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-513" lat="51.38949460580235" lon="0.10894515701211138">
+    <tag k="addr:postcode" v="BR5 3RN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-514" lat="51.39269598498686" lon="0.11294477466987493">
+    <tag k="addr:postcode" v="BR5 3RP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-515" lat="51.39101825342455" lon="0.11122882959771646">
+    <tag k="addr:postcode" v="BR5 3RS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-516" lat="51.38952388140737" lon="0.11081506906445106">
+    <tag k="addr:postcode" v="BR5 3RT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-517" lat="51.38804159704447" lon="0.11022941576784327">
+    <tag k="addr:postcode" v="BR5 3RX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-518" lat="51.39163698966022" lon="0.11282410858476155">
+    <tag k="addr:postcode" v="BR5 3RZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-519" lat="51.39793618081749" lon="0.11409197108642866">
+    <tag k="addr:postcode" v="BR5 3SG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-520" lat="51.39560115360498" lon="0.11292051961185699">
+    <tag k="addr:postcode" v="BR5 3SR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-521" lat="51.39885816864459" lon="0.11033908628441157">
+    <tag k="addr:postcode" v="BR5 3SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-522" lat="51.39180664998631" lon="0.11139449510805231">
+    <tag k="addr:postcode" v="BR5 3ST"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-523" lat="51.39372638543057" lon="0.11514849129310306">
+    <tag k="addr:postcode" v="BR5 3TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-524" lat="51.39362537896927" lon="0.11576195199136492">
+    <tag k="addr:postcode" v="BR5 3TP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-525" lat="51.40685424504783" lon="0.11674643286649534">
+    <tag k="addr:postcode" v="BR5 3TW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-526" lat="51.39527699158723" lon="0.11394061009384031">
+    <tag k="addr:postcode" v="BR5 3TX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-527" lat="51.39695242607267" lon="0.11229274754632469">
+    <tag k="addr:postcode" v="BR5 3TZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-528" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 3ZJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-529" lat="51.383675650622685" lon="0.10797339979568123">
+    <tag k="addr:postcode" v="BR5 4AE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-530" lat="51.38759758245934" lon="0.11440589779070477">
+    <tag k="addr:postcode" v="BR5 4AS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-531" lat="51.38981354448918" lon="0.11519800009169354">
+    <tag k="addr:postcode" v="BR5 4BG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-532" lat="51.390437692643545" lon="0.11499680570229358">
+    <tag k="addr:postcode" v="BR5 4BH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-533" lat="51.38846824799607" lon="0.10850988326258235">
+    <tag k="addr:postcode" v="BR5 4BQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-534" lat="51.388542938827406" lon="0.12478388057585839">
+    <tag k="addr:postcode" v="BR5 4EP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-535" lat="51.38674974260078" lon="0.10805718992042379">
+    <tag k="addr:postcode" v="BR5 4HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-536" lat="51.377133161957275" lon="0.11620840285381502">
+    <tag k="addr:postcode" v="BR5 4LE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-537" lat="51.37644065158236" lon="0.11222485282298113">
+    <tag k="addr:postcode" v="BR5 4LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-538" lat="51.37497892225801" lon="0.12343726022900979">
+    <tag k="addr:postcode" v="BR5 4QL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-539" lat="51.375877852534344" lon="0.12296156563472119">
+    <tag k="addr:postcode" v="BR5 4QU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-540" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 4RT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-541" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR5 4XA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-542" lat="51.37438809718621" lon="0.09582175096091311">
+    <tag k="addr:postcode" v="BR6 0BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-543" lat="51.380947081359345" lon="0.10267450122980631">
+    <tag k="addr:postcode" v="BR6 0DG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-544" lat="51.37504785525133" lon="0.09815092836013037">
+    <tag k="addr:postcode" v="BR6 0EL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-545" lat="51.3798805198915" lon="0.1039764488571738">
+    <tag k="addr:postcode" v="BR6 0FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-546" lat="51.38204916946139" lon="0.10640405084260723">
+    <tag k="addr:postcode" v="BR6 0FB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-547" lat="51.37559700685888" lon="0.09811856249315642">
+    <tag k="addr:postcode" v="BR6 0FD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-548" lat="51.375409727816496" lon="0.10104130295951272">
+    <tag k="addr:postcode" v="BR6 0FE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-549" lat="51.3803667315783" lon="0.10444423905486971">
+    <tag k="addr:postcode" v="BR6 0GE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-550" lat="51.37969045129283" lon="0.10153912014822415">
+    <tag k="addr:postcode" v="BR6 0HD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-551" lat="51.378983289517585" lon="0.10336049138145637">
+    <tag k="addr:postcode" v="BR6 0HE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-552" lat="51.37826267450114" lon="0.10292509358115814">
+    <tag k="addr:postcode" v="BR6 0HF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-553" lat="51.37862481855693" lon="0.1042924871703908">
+    <tag k="addr:postcode" v="BR6 0HH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-554" lat="51.379380937359386" lon="0.10375235234278914">
+    <tag k="addr:postcode" v="BR6 0HJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-555" lat="51.38199415291267" lon="0.10446141087841368">
+    <tag k="addr:postcode" v="BR6 0HL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-556" lat="51.38030810744083" lon="0.10219972376269604">
+    <tag k="addr:postcode" v="BR6 0HQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-557" lat="51.38252172226514" lon="0.10462932731432079">
+    <tag k="addr:postcode" v="BR6 0HS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-558" lat="51.38227425344767" lon="0.10438803283315785">
+    <tag k="addr:postcode" v="BR6 0HT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-559" lat="51.381647663270144" lon="0.10322397219981082">
+    <tag k="addr:postcode" v="BR6 0HY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-560" lat="51.381533648677234" lon="0.10356365047384304">
+    <tag k="addr:postcode" v="BR6 0HZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-561" lat="51.37480218382085" lon="0.09730629617337004">
+    <tag k="addr:postcode" v="BR6 0JA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-562" lat="51.382440349861135" lon="0.10715495224008911">
+    <tag k="addr:postcode" v="BR6 0JD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-563" lat="51.3810005802713" lon="0.10470324992396343">
+    <tag k="addr:postcode" v="BR6 0JE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-564" lat="51.38030004541259" lon="0.10365079268481574">
+    <tag k="addr:postcode" v="BR6 0JF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-565" lat="51.38153378083133" lon="0.1050582474278339">
+    <tag k="addr:postcode" v="BR6 0JG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-566" lat="51.3797098329681" lon="0.10346565374893711">
+    <tag k="addr:postcode" v="BR6 0JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-567" lat="51.37739561993858" lon="0.09962341655829678">
+    <tag k="addr:postcode" v="BR6 0JP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-568" lat="51.38039148579562" lon="0.10306578670420062">
+    <tag k="addr:postcode" v="BR6 0JQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-569" lat="51.37824302571871" lon="0.10101297898267582">
+    <tag k="addr:postcode" v="BR6 0JR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-570" lat="51.37571350902526" lon="0.09964702819298103">
+    <tag k="addr:postcode" v="BR6 0JU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-571" lat="51.377573765300085" lon="0.10022073134428117">
+    <tag k="addr:postcode" v="BR6 0JW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-572" lat="51.3747146293778" lon="0.09767588611005891">
+    <tag k="addr:postcode" v="BR6 0JX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-573" lat="51.37952967755659" lon="0.1024802041330564">
+    <tag k="addr:postcode" v="BR6 0JY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-574" lat="51.379943495249414" lon="0.10297339735368356">
+    <tag k="addr:postcode" v="BR6 0JZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-575" lat="51.38100345967249" lon="0.10404232061981696">
+    <tag k="addr:postcode" v="BR6 0LA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-576" lat="51.38079244750962" lon="0.10377396775148728">
+    <tag k="addr:postcode" v="BR6 0LE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-577" lat="51.37691421202531" lon="0.10039171520701767">
+    <tag k="addr:postcode" v="BR6 0LJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-578" lat="51.3772415304436" lon="0.10069409358004304">
+    <tag k="addr:postcode" v="BR6 0LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-579" lat="51.38137685040055" lon="0.10578396832123442">
+    <tag k="addr:postcode" v="BR6 0NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-580" lat="51.373786524853905" lon="0.09828004699862422">
+    <tag k="addr:postcode" v="BR6 0NE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-581" lat="51.37400166550816" lon="0.09831862212855068">
+    <tag k="addr:postcode" v="BR6 0NJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-582" lat="51.373795253315336" lon="0.09829481475148126">
+    <tag k="addr:postcode" v="BR6 0NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-583" lat="51.37587550740783" lon="0.09964007194712363">
+    <tag k="addr:postcode" v="BR6 0NP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-584" lat="51.37514228948149" lon="0.09940535397187561">
+    <tag k="addr:postcode" v="BR6 0NR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-585" lat="51.375462941155966" lon="0.09957808574152552">
+    <tag k="addr:postcode" v="BR6 0NS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-586" lat="51.37502779213475" lon="0.09927079417955671">
+    <tag k="addr:postcode" v="BR6 0NT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-587" lat="51.37504785525133" lon="0.09815092836013037">
+    <tag k="addr:postcode" v="BR6 0NX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-588" lat="51.37798991313173" lon="0.10709424897367763">
+    <tag k="addr:postcode" v="BR6 0PB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-589" lat="51.37649523486595" lon="0.10018573229826358">
+    <tag k="addr:postcode" v="BR6 0PF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-590" lat="51.37536236573957" lon="0.09766239063452412">
+    <tag k="addr:postcode" v="BR6 0PG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-591" lat="51.373456355621926" lon="0.09863853116913436">
+    <tag k="addr:postcode" v="BR6 0PH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-592" lat="51.37827610504565" lon="0.10768219477529371">
+    <tag k="addr:postcode" v="BR6 0PL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-593" lat="51.379209512571876" lon="0.10828551944300503">
+    <tag k="addr:postcode" v="BR6 0PN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-594" lat="51.37587736112208" lon="0.1085491183485454">
+    <tag k="addr:postcode" v="BR6 0PZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-595" lat="51.37781313310223" lon="0.10842253157321567">
+    <tag k="addr:postcode" v="BR6 0QA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-596" lat="51.37715048521123" lon="0.10626536503627355">
+    <tag k="addr:postcode" v="BR6 0QB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-597" lat="51.37747215871189" lon="0.1063807206553772">
+    <tag k="addr:postcode" v="BR6 0QD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-598" lat="51.37654695170335" lon="0.1058209437212433">
+    <tag k="addr:postcode" v="BR6 0QE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-599" lat="51.37691833127782" lon="0.10417111263571079">
+    <tag k="addr:postcode" v="BR6 0QF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-600" lat="51.37616000683352" lon="0.10633485203713064">
+    <tag k="addr:postcode" v="BR6 0QG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-601" lat="51.3743816371718" lon="0.10621011123969049">
+    <tag k="addr:postcode" v="BR6 0QH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-602" lat="51.37561715244901" lon="0.10751694618251467">
+    <tag k="addr:postcode" v="BR6 0QQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-603" lat="51.37420542464867" lon="0.10049762234181898">
+    <tag k="addr:postcode" v="BR6 0QS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-604" lat="51.37352715398688" lon="0.10421676684355177">
+    <tag k="addr:postcode" v="BR6 0QU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-605" lat="51.374868544352864" lon="0.10463750422758814">
+    <tag k="addr:postcode" v="BR6 0RA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-606" lat="51.375555654988" lon="0.10343327019648116">
+    <tag k="addr:postcode" v="BR6 0RG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-607" lat="51.37514339488315" lon="0.10585711243264513">
+    <tag k="addr:postcode" v="BR6 0RH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-608" lat="51.375089786104525" lon="0.10533736633311634">
+    <tag k="addr:postcode" v="BR6 0RJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-609" lat="51.37429810942449" lon="0.10435270201907378">
+    <tag k="addr:postcode" v="BR6 0RL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-610" lat="51.375449336563136" lon="0.1038451019301593">
+    <tag k="addr:postcode" v="BR6 0RQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-611" lat="51.374872366291726" lon="0.10141902896219558">
+    <tag k="addr:postcode" v="BR6 0RU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-612" lat="51.37400979684872" lon="0.10438258622054906">
+    <tag k="addr:postcode" v="BR6 0RW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-613" lat="51.37357168325219" lon="0.09621551948080373">
+    <tag k="addr:postcode" v="BR6 0RY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-614" lat="51.37350237399701" lon="0.09455997228456214">
+    <tag k="addr:postcode" v="BR6 0SH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-615" lat="51.373316498122975" lon="0.09539922784390616">
+    <tag k="addr:postcode" v="BR6 0SR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-616" lat="51.37367924664502" lon="0.09673770232753148">
+    <tag k="addr:postcode" v="BR6 0SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-617" lat="51.373126650648395" lon="0.08941330145862571">
+    <tag k="addr:postcode" v="BR6 0SX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-618" lat="51.37594136544106" lon="0.10198528252804256">
+    <tag k="addr:postcode" v="BR6 0TE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-619" lat="51.37698233866222" lon="0.10311069481595082">
+    <tag k="addr:postcode" v="BR6 0TJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-620" lat="51.377052004039264" lon="0.10173440097035508">
+    <tag k="addr:postcode" v="BR6 0TW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-621" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0UF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-622" lat="51.376136274280434" lon="0.10114641880637694">
+    <tag k="addr:postcode" v="BR6 0UN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-623" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0WJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-624" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0WR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-625" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0WY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-626" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0ZF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-627" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 0ZG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-628" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1AN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-629" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1BQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-630" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1DR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-631" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1EF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-632" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1ET"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-633" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1EW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-634" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1EX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-635" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-636" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-637" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-638" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-639" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-640" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-641" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1FZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-642" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-643" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-644" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-645" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-646" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-647" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-648" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-649" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-650" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-651" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-652" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-653" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-654" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1GY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-655" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 1HA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-656" lat="51.35659982324111" lon="0.08726792415047721">
+    <tag k="addr:postcode" v="BR6 6BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-657" lat="51.35751204706209" lon="0.12803005096447004">
+    <tag k="addr:postcode" v="BR6 6EN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-658" lat="51.35784713977419" lon="0.12591975583360973">
+    <tag k="addr:postcode" v="BR6 6EP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-659" lat="51.35715484541189" lon="0.11747071101313533">
+    <tag k="addr:postcode" v="BR6 6ER"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-660" lat="51.3564787857099" lon="0.10758635475851169">
+    <tag k="addr:postcode" v="BR6 6EU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-661" lat="51.358000270125" lon="0.12739194767242806">
+    <tag k="addr:postcode" v="BR6 6HB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-662" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 6LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-663" lat="51.35876651860616" lon="0.12679543789563819">
+    <tag k="addr:postcode" v="BR6 6NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-664" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 6ZD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-665" lat="51.366727586888416" lon="0.06076278210269641">
+    <tag k="addr:postcode" v="BR6 7AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-666" lat="51.359279337277535" lon="0.0731118787976368">
+    <tag k="addr:postcode" v="BR6 7AY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-667" lat="51.359218365358124" lon="0.0699490436574459">
+    <tag k="addr:postcode" v="BR6 7BA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-668" lat="51.359527993216275" lon="0.06769347548723455">
+    <tag k="addr:postcode" v="BR6 7BB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-669" lat="51.35987288151161" lon="0.06700516210769172">
+    <tag k="addr:postcode" v="BR6 7BD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-670" lat="51.358986976991204" lon="0.07082917548416925">
+    <tag k="addr:postcode" v="BR6 7BG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-671" lat="51.36013787660826" lon="0.059619488253779926">
+    <tag k="addr:postcode" v="BR6 7BU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-672" lat="51.35950018280369" lon="0.07079486705205976">
+    <tag k="addr:postcode" v="BR6 7BX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-673" lat="51.36033448845274" lon="0.07040156780411923">
+    <tag k="addr:postcode" v="BR6 7BY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-674" lat="51.36025886433778" lon="0.06857388739014877">
+    <tag k="addr:postcode" v="BR6 7BZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-675" lat="51.35861652899391" lon="0.07092737755017604">
+    <tag k="addr:postcode" v="BR6 7DA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-676" lat="51.35877644648816" lon="0.07205497265503438">
+    <tag k="addr:postcode" v="BR6 7DB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-677" lat="51.35969127247709" lon="0.07117695407329136">
+    <tag k="addr:postcode" v="BR6 7DE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-678" lat="51.36100172123141" lon="0.07030237736534467">
+    <tag k="addr:postcode" v="BR6 7DF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-679" lat="51.360009768000985" lon="0.06943888334215555">
+    <tag k="addr:postcode" v="BR6 7DG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-680" lat="51.36047645141731" lon="0.0669461501464368">
+    <tag k="addr:postcode" v="BR6 7DH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-681" lat="51.360328998083155" lon="0.06765772899708333">
+    <tag k="addr:postcode" v="BR6 7DQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-682" lat="51.35904995833211" lon="0.07387717530173382">
+    <tag k="addr:postcode" v="BR6 7EQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-683" lat="51.35847504157561" lon="0.08448041227176534">
+    <tag k="addr:postcode" v="BR6 7ET"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-684" lat="51.36357630582007" lon="0.0640402666310001">
+    <tag k="addr:postcode" v="BR6 7FJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-685" lat="51.36354809211653" lon="0.06513076472865764">
+    <tag k="addr:postcode" v="BR6 7FL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-686" lat="51.35909618377189" lon="0.0656630739933731">
+    <tag k="addr:postcode" v="BR6 7GB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-687" lat="51.358299669303314" lon="0.13909799148999907">
+    <tag k="addr:postcode" v="BR6 7GJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-688" lat="51.36663520290403" lon="0.06090229745852692">
+    <tag k="addr:postcode" v="BR6 7GN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-689" lat="51.34000396900244" lon="0.05749634981611426">
+    <tag k="addr:postcode" v="BR6 7HJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-690" lat="51.339980625553" lon="0.056777406384791285">
+    <tag k="addr:postcode" v="BR6 7HL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-691" lat="51.34042798237672" lon="0.05793172348594442">
+    <tag k="addr:postcode" v="BR6 7HN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-692" lat="51.3410417970275" lon="0.057801277275160545">
+    <tag k="addr:postcode" v="BR6 7HP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-693" lat="51.339445993619535" lon="0.05495874896117124">
+    <tag k="addr:postcode" v="BR6 7HQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-694" lat="51.340661623349014" lon="0.056405864393826805">
+    <tag k="addr:postcode" v="BR6 7HR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-695" lat="51.34100720165157" lon="0.057211038120831274">
+    <tag k="addr:postcode" v="BR6 7HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-696" lat="51.33920969628388" lon="0.05253608445087742">
+    <tag k="addr:postcode" v="BR6 7JF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-697" lat="51.339576676238096" lon="0.05212174410766649">
+    <tag k="addr:postcode" v="BR6 7JG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-698" lat="51.351428497766896" lon="0.0751414823177729">
+    <tag k="addr:postcode" v="BR6 7JH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-699" lat="51.33222428107194" lon="0.05087466578377976">
+    <tag k="addr:postcode" v="BR6 7JJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-700" lat="51.336549756277414" lon="0.054987146791506666">
+    <tag k="addr:postcode" v="BR6 7JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-701" lat="51.34016126508617" lon="0.05211913916597007">
+    <tag k="addr:postcode" v="BR6 7JQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-702" lat="51.33556497358014" lon="0.05370844065302691">
+    <tag k="addr:postcode" v="BR6 7JR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-703" lat="51.3245368135032" lon="0.054378318136803015">
+    <tag k="addr:postcode" v="BR6 7JT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-704" lat="51.323389987727744" lon="0.05515952888476075">
+    <tag k="addr:postcode" v="BR6 7JU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-705" lat="51.336779942135664" lon="0.05468158832889643">
+    <tag k="addr:postcode" v="BR6 7JW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-706" lat="51.32397626345891" lon="0.05557326865377574">
+    <tag k="addr:postcode" v="BR6 7JX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-707" lat="51.32516248455317" lon="0.05510959275526433">
+    <tag k="addr:postcode" v="BR6 7JY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-708" lat="51.32417747868452" lon="0.05538132381633452">
+    <tag k="addr:postcode" v="BR6 7JZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-709" lat="51.32236787083087" lon="0.058056089533373934">
+    <tag k="addr:postcode" v="BR6 7LA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-710" lat="51.33378729371518" lon="0.04067987833921252">
+    <tag k="addr:postcode" v="BR6 7LD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-711" lat="51.33505061624885" lon="0.05483396587852781">
+    <tag k="addr:postcode" v="BR6 7LE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-712" lat="51.33460712836834" lon="0.056020062083352216">
+    <tag k="addr:postcode" v="BR6 7LF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-713" lat="51.326318366121875" lon="0.06251036138226773">
+    <tag k="addr:postcode" v="BR6 7LG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-714" lat="51.32649623221281" lon="0.06415467065417883">
+    <tag k="addr:postcode" v="BR6 7LH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-715" lat="51.32586275520322" lon="0.06284875738468276">
+    <tag k="addr:postcode" v="BR6 7LQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-716" lat="51.34413229088396" lon="0.11152867743691319">
+    <tag k="addr:postcode" v="BR6 7LT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-717" lat="51.3438948530391" lon="0.11123057738090564">
+    <tag k="addr:postcode" v="BR6 7LU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-718" lat="51.34416176571061" lon="0.11188901674645417">
+    <tag k="addr:postcode" v="BR6 7LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-719" lat="51.34053785937028" lon="0.11087528978027883">
+    <tag k="addr:postcode" v="BR6 7NH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-720" lat="51.34040074797774" lon="0.11099821379641418">
+    <tag k="addr:postcode" v="BR6 7NJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-721" lat="51.35720069669224" lon="0.13673426517095963">
+    <tag k="addr:postcode" v="BR6 7PH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-722" lat="51.35029821864109" lon="0.13749020337054252">
+    <tag k="addr:postcode" v="BR6 7QL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-723" lat="51.353826389579304" lon="0.1397944373838538">
+    <tag k="addr:postcode" v="BR6 7QN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-724" lat="51.35147082679145" lon="0.13926818806698435">
+    <tag k="addr:postcode" v="BR6 7QP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-725" lat="51.35129321512528" lon="0.13914502099963488">
+    <tag k="addr:postcode" v="BR6 7QR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-726" lat="51.348029093045255" lon="0.13715482843996601">
+    <tag k="addr:postcode" v="BR6 7QS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-727" lat="51.35125367664023" lon="0.13983253864293138">
+    <tag k="addr:postcode" v="BR6 7QT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-728" lat="51.354791106709264" lon="0.14261140698562758">
+    <tag k="addr:postcode" v="BR6 7QU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-729" lat="51.3539921999593" lon="0.14056337715608055">
+    <tag k="addr:postcode" v="BR6 7QW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-730" lat="51.35446416190699" lon="0.14032685056368333">
+    <tag k="addr:postcode" v="BR6 7QX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-731" lat="51.354192097945" lon="0.1394667774413419">
+    <tag k="addr:postcode" v="BR6 7QY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-732" lat="51.354443091735874" lon="0.1390188671042405">
+    <tag k="addr:postcode" v="BR6 7QZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-733" lat="51.3546315634809" lon="0.13608329186337773">
+    <tag k="addr:postcode" v="BR6 7RA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-734" lat="51.35466881382321" lon="0.1360132111533424">
+    <tag k="addr:postcode" v="BR6 7RB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-735" lat="51.35705470923027" lon="0.12746304333080763">
+    <tag k="addr:postcode" v="BR6 7RE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-736" lat="51.35702215595999" lon="0.12727481031358875">
+    <tag k="addr:postcode" v="BR6 7RF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-737" lat="51.35846806141436" lon="0.1308465931767289">
+    <tag k="addr:postcode" v="BR6 7RG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-738" lat="51.357416501452654" lon="0.1308121535770267">
+    <tag k="addr:postcode" v="BR6 7RJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-739" lat="51.357523498747135" lon="0.12838967155833914">
+    <tag k="addr:postcode" v="BR6 7RL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-740" lat="51.35704256360704" lon="0.13208751003231411">
+    <tag k="addr:postcode" v="BR6 7RN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-741" lat="51.35833294575162" lon="0.12937520953376863">
+    <tag k="addr:postcode" v="BR6 7RQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-742" lat="51.34374369518725" lon="0.10263680627532706">
+    <tag k="addr:postcode" v="BR6 7SA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-743" lat="51.344369584602305" lon="0.11283193508432403">
+    <tag k="addr:postcode" v="BR6 7SF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-744" lat="51.34727536604456" lon="0.11227630245185331">
+    <tag k="addr:postcode" v="BR6 7SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-745" lat="51.35071425613137" lon="0.11855243837945105">
+    <tag k="addr:postcode" v="BR6 7SN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-746" lat="51.34437398463079" lon="0.11258802688070514">
+    <tag k="addr:postcode" v="BR6 7SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-747" lat="51.34729702986513" lon="0.11157364113778002">
+    <tag k="addr:postcode" v="BR6 7SR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-748" lat="51.34017065189272" lon="0.1132849420059471">
+    <tag k="addr:postcode" v="BR6 7SU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-749" lat="51.350246846317404" lon="0.11804259266703858">
+    <tag k="addr:postcode" v="BR6 7SW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-750" lat="51.33665974830144" lon="0.05384351255378748">
+    <tag k="addr:postcode" v="BR6 7US"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-751" lat="51.33620372979906" lon="0.05369391884555713">
+    <tag k="addr:postcode" v="BR6 7UT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-752" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 7WL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-753" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 7WP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-754" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 7XU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-755" lat="51.371954849950576" lon="0.08805245758189471">
+    <tag k="addr:postcode" v="BR6 8AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-756" lat="51.37242110958166" lon="0.08863403192183014">
+    <tag k="addr:postcode" v="BR6 8AB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-757" lat="51.373126650648395" lon="0.08941330145862571">
+    <tag k="addr:postcode" v="BR6 8AD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-758" lat="51.36385598722327" lon="0.055807080601518975">
+    <tag k="addr:postcode" v="BR6 8NS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-759" lat="51.366071129907226" lon="0.05666769508440756">
+    <tag k="addr:postcode" v="BR6 8NY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-760" lat="51.36606987089664" lon="0.055202294059094714">
+    <tag k="addr:postcode" v="BR6 8NZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-761" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 8PU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-762" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 8QX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-763" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 8WP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-764" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 8WS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-765" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 8ZH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-766" lat="51.36897928303803" lon="0.1120682130614964">
+    <tag k="addr:postcode" v="BR6 9AT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-767" lat="51.36250239487097" lon="0.09514978253131437">
+    <tag k="addr:postcode" v="BR6 9JU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-768" lat="51.36371586743287" lon="0.11469912989860429">
+    <tag k="addr:postcode" v="BR6 9SX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-769" lat="51.376828774579714" lon="0.09913765040911693">
+    <tag k="addr:postcode" v="BR6 9YE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-770" lat="51.418271635761684" lon="0.06707873891529614">
+    <tag k="addr:postcode" v="BR7 5BE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-771" lat="51.40543323704495" lon="0.057685701688671494">
+    <tag k="addr:postcode" v="BR7 5NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-772" lat="51.40694857249114" lon="0.061521016159723725">
+    <tag k="addr:postcode" v="BR7 5QU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-773" lat="51.41742435554596" lon="0.07177227530274728">
+    <tag k="addr:postcode" v="BR7 6AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-774" lat="51.41158622537281" lon="0.09614204175651984">
+    <tag k="addr:postcode" v="BR7 6LS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-775" lat="51.40864275881362" lon="0.08975230918965957">
+    <tag k="addr:postcode" v="BR7 6LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-776" lat="51.419600406945406" lon="0.0763581620119607">
+    <tag k="addr:postcode" v="BR7 6LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-777" lat="51.417403389206314" lon="0.07702085295045658">
+    <tag k="addr:postcode" v="BR7 6LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-778" lat="51.41806043234931" lon="0.0774964965799178">
+    <tag k="addr:postcode" v="BR7 6NF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-779" lat="51.417169539149825" lon="0.07550012145838697">
+    <tag k="addr:postcode" v="BR7 6NL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-780" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 7AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-781" lat="51.39569552707375" lon="0.1755736900777981">
+    <tag k="addr:postcode" v="BR8 7AB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-782" lat="51.39782056284451" lon="0.1768821410260987">
+    <tag k="addr:postcode" v="BR8 7AU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-783" lat="51.400123803756884" lon="0.17295156258671068">
+    <tag k="addr:postcode" v="BR8 7BD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-784" lat="51.399483786004865" lon="0.17594036271624144">
+    <tag k="addr:postcode" v="BR8 7BL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-785" lat="51.40124158219342" lon="0.17668516060516667">
+    <tag k="addr:postcode" v="BR8 7BQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-786" lat="51.3932760867642" lon="0.16539647511970462">
+    <tag k="addr:postcode" v="BR8 7BZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-787" lat="51.39505152222796" lon="0.16762226226675556">
+    <tag k="addr:postcode" v="BR8 7DG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-788" lat="51.39976526361612" lon="0.17724764721597486">
+    <tag k="addr:postcode" v="BR8 7FH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-789" lat="51.399490461677786" lon="0.17703332004159758">
+    <tag k="addr:postcode" v="BR8 7FJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-790" lat="51.399496243810674" lon="0.1772061168438842">
+    <tag k="addr:postcode" v="BR8 7FL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-791" lat="51.39921839618351" lon="0.17909065445155023">
+    <tag k="addr:postcode" v="BR8 7JJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-792" lat="51.403325791823555" lon="0.161744706625872">
+    <tag k="addr:postcode" v="BR8 7JX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-793" lat="51.40141894650665" lon="0.17923839244487522">
+    <tag k="addr:postcode" v="BR8 7JY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-794" lat="51.408663056833525" lon="0.18526284751775107">
+    <tag k="addr:postcode" v="BR8 7LF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-795" lat="51.40783896594605" lon="0.18460523452626093">
+    <tag k="addr:postcode" v="BR8 7LL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-796" lat="51.409867641180256" lon="0.1751391682607078">
+    <tag k="addr:postcode" v="BR8 7LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-797" lat="51.40914983575341" lon="0.1842363268669819">
+    <tag k="addr:postcode" v="BR8 7LY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-798" lat="51.40542200770401" lon="0.18930690562743216">
+    <tag k="addr:postcode" v="BR8 7NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-799" lat="51.40486438640895" lon="0.19363697599847635">
+    <tag k="addr:postcode" v="BR8 7NQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-800" lat="51.39729868376613" lon="0.14422355310792856">
+    <tag k="addr:postcode" v="BR8 7QJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-801" lat="51.406851680059475" lon="0.18450065694987974">
+    <tag k="addr:postcode" v="BR8 7QY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-802" lat="51.403929356436755" lon="0.16850217787034216">
+    <tag k="addr:postcode" v="BR8 7TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-803" lat="51.395662833587124" lon="0.17345891925466106">
+    <tag k="addr:postcode" v="BR8 7UD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-804" lat="51.39787327856295" lon="0.16627491228132718">
+    <tag k="addr:postcode" v="BR8 7WB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-805" lat="51.3991627999264" lon="0.1719140168736794">
+    <tag k="addr:postcode" v="BR8 7WJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-806" lat="51.39871332868376" lon="0.17335913568549363">
+    <tag k="addr:postcode" v="BR8 7WP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-807" lat="51.40544141869915" lon="0.19403844106386342">
+    <tag k="addr:postcode" v="BR8 7WX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-808" lat="51.40527393144916" lon="0.19385787904443494">
+    <tag k="addr:postcode" v="BR8 7WY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-809" lat="51.402638237224394" lon="0.17363149219599358">
+    <tag k="addr:postcode" v="BR8 7YE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-810" lat="51.40399673985653" lon="0.1726319235983772">
+    <tag k="addr:postcode" v="BR8 7YG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-811" lat="51.40283167093049" lon="0.17192969600534902">
+    <tag k="addr:postcode" v="BR8 7YT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-812" lat="51.4031515433384" lon="0.17116844132027245">
+    <tag k="addr:postcode" v="BR8 7YU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-813" lat="51.396007067323545" lon="0.17865050900396431">
+    <tag k="addr:postcode" v="BR8 8AJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-814" lat="51.38733996966888" lon="0.16592108482022253">
+    <tag k="addr:postcode" v="BR8 8BF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-815" lat="51.39158556351186" lon="0.18765441345296086">
+    <tag k="addr:postcode" v="BR8 8BY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-816" lat="51.392932921472806" lon="0.1882218129114143">
+    <tag k="addr:postcode" v="BR8 8DD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-817" lat="51.390742169456146" lon="0.18899409492116437">
+    <tag k="addr:postcode" v="BR8 8DF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-818" lat="51.38816940595136" lon="0.18083661113515234">
+    <tag k="addr:postcode" v="BR8 8DL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-819" lat="51.3934974117837" lon="0.17335627588208397">
+    <tag k="addr:postcode" v="BR8 8DU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-820" lat="51.3934028774766" lon="0.1745736644217215">
+    <tag k="addr:postcode" v="BR8 8EU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-821" lat="51.39268977161317" lon="0.17520108309090024">
+    <tag k="addr:postcode" v="BR8 8FB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-822" lat="51.391928363104796" lon="0.17697614871123477">
+    <tag k="addr:postcode" v="BR8 8FD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-823" lat="51.39261087671856" lon="0.17751166552588787">
+    <tag k="addr:postcode" v="BR8 8FF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-824" lat="51.39140393747921" lon="0.16596928681134548">
+    <tag k="addr:postcode" v="BR8 8HH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-825" lat="51.39237540128463" lon="0.165957675174441">
+    <tag k="addr:postcode" v="BR8 8HW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-826" lat="51.38348716248098" lon="0.16174379409543152">
+    <tag k="addr:postcode" v="BR8 8JL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-827" lat="51.38319568369773" lon="0.16145699509530792">
+    <tag k="addr:postcode" v="BR8 8JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-828" lat="51.390742169456146" lon="0.18899409492116437">
+    <tag k="addr:postcode" v="BR8 8TH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-829" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9AD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-830" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-831" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-832" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-833" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-834" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-835" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9BP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-836" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-837" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-838" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-839" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-840" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-841" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9DZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-842" lat="51.3958914156123" lon="0.1751948407537201">
+    <tag k="addr:postcode" v="BR8 9XA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+</osm>

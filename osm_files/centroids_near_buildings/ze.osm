@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="import_postcodes.py" upload="false">
+  <node id="-1" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0AA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-2" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0AD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-3" lat="60.15232131965549" lon="-1.1384488138045405">
+    <tag k="addr:postcode" v="ZE1 0AU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-4" lat="60.154905433518" lon="-1.1478741088079307">
+    <tag k="addr:postcode" v="ZE1 0AZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-5" lat="60.153689890449975" lon="-1.145960217028066">
+    <tag k="addr:postcode" v="ZE1 0EG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-6" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0EH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-7" lat="60.15567679373288" lon="-1.1505381604261677">
+    <tag k="addr:postcode" v="ZE1 0ER"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-8" lat="60.16402533934112" lon="-1.1643227810107621">
+    <tag k="addr:postcode" v="ZE1 0FB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-9" lat="60.149521080311715" lon="-1.1724710918485761">
+    <tag k="addr:postcode" v="ZE1 0GA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-10" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 0HB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-11" lat="60.155147838511915" lon="-1.1436887741553723">
+    <tag k="addr:postcode" v="ZE1 0HY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-12" lat="60.15555854699484" lon="-1.1461099086321627">
+    <tag k="addr:postcode" v="ZE1 0JN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-13" lat="60.15704700276427" lon="-1.1457830880230793">
+    <tag k="addr:postcode" v="ZE1 0LQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-14" lat="60.15704700276427" lon="-1.1457830880230793">
+    <tag k="addr:postcode" v="ZE1 0LX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-15" lat="60.162741082729305" lon="-1.1685714271865326">
+    <tag k="addr:postcode" v="ZE1 0NE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-16" lat="60.157603185286" lon="-1.156919657275388">
+    <tag k="addr:postcode" v="ZE1 0NT"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-17" lat="60.16412829200928" lon="-1.162139980574329">
+    <tag k="addr:postcode" v="ZE1 0PF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-18" lat="60.16457923176137" lon="-1.1624528344766731">
+    <tag k="addr:postcode" v="ZE1 0PW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-19" lat="60.16258329553598" lon="-1.1663232589293422">
+    <tag k="addr:postcode" v="ZE1 0QF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-20" lat="60.15105828041248" lon="-1.15566430650483">
+    <tag k="addr:postcode" v="ZE1 0TB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-21" lat="60.16592802857932" lon="-1.1670313990369214">
+    <tag k="addr:postcode" v="ZE1 0TW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-22" lat="60.130448404776295" lon="-1.2668714424100374">
+    <tag k="addr:postcode" v="ZE1 0US"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-23" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0WD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-24" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0WW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-25" lat="60.12288133622786" lon="-1.2870504130020923">
+    <tag k="addr:postcode" v="ZE1 0XL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-26" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 0YJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-27" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-28" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-29" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SD"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-30" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SE"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-31" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SF"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-32" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-33" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-34" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-35" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-36" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-37" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-38" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-39" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-40" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-41" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9ST"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-42" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-43" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-44" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-45" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-46" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9SZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-47" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9TA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-48" lat="60.15443690347243" lon="-1.1462290520273801">
+    <tag k="addr:postcode" v="ZE1 9TB"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-49" lat="60.153221707792945" lon="-1.1415954031387991">
+    <tag k="addr:postcode" v="ZE1 9ZZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-50" lat="60.422999575074336" lon="-0.7634895921003535">
+    <tag k="addr:postcode" v="ZE2 9AS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-51" lat="60.6103166915871" lon="-1.0602935800133135">
+    <tag k="addr:postcode" v="ZE2 9DA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-52" lat="60.14601637772121" lon="-1.1123756585740332">
+    <tag k="addr:postcode" v="ZE2 9DH"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-53" lat="60.75867954585414" lon="-0.8810169587551904">
+    <tag k="addr:postcode" v="ZE2 9DY"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-54" lat="60.15578392077594" lon="-1.116111445249853">
+    <tag k="addr:postcode" v="ZE2 9EL"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-55" lat="60.1544951810831" lon="-1.115407501474498">
+    <tag k="addr:postcode" v="ZE2 9EN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-56" lat="60.17253609416177" lon="-1.107587363898295">
+    <tag k="addr:postcode" v="ZE2 9EP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-57" lat="60.1398389183031" lon="-1.1137663829230997">
+    <tag k="addr:postcode" v="ZE2 9ER"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-58" lat="60.14823549544296" lon="-1.0926674751448577">
+    <tag k="addr:postcode" v="ZE2 9ES"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-59" lat="60.14392884125947" lon="-1.111729615947637">
+    <tag k="addr:postcode" v="ZE2 9ET"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-60" lat="60.14418158700431" lon="-1.1105883431031078">
+    <tag k="addr:postcode" v="ZE2 9EU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-61" lat="60.169263879983426" lon="-1.1382396708141422">
+    <tag k="addr:postcode" v="ZE2 9EW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-62" lat="60.61138238396082" lon="-1.0598972597220528">
+    <tag k="addr:postcode" v="ZE2 9FA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-63" lat="60.12839939712466" lon="-1.2088182391931945">
+    <tag k="addr:postcode" v="ZE2 9FG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-64" lat="60.12839939712466" lon="-1.2088182391931945">
+    <tag k="addr:postcode" v="ZE2 9FJ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-65" lat="60.12839939712466" lon="-1.2088182391931945">
+    <tag k="addr:postcode" v="ZE2 9FN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-66" lat="60.12839939712466" lon="-1.2088182391931945">
+    <tag k="addr:postcode" v="ZE2 9FQ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-67" lat="60.0042947023329" lon="-1.2376216173227894">
+    <tag k="addr:postcode" v="ZE2 9HN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-68" lat="60.0080564848302" lon="-1.2267035594978453">
+    <tag k="addr:postcode" v="ZE2 9HP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-69" lat="59.997783380110995" lon="-1.2547127394041884">
+    <tag k="addr:postcode" v="ZE2 9HR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-70" lat="59.92247204045518" lon="-1.2970936948592486">
+    <tag k="addr:postcode" v="ZE2 9JW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-71" lat="60.26248340331454" lon="-1.3868459174882906">
+    <tag k="addr:postcode" v="ZE2 9LS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-72" lat="60.26016020589681" lon="-1.2882788164572978">
+    <tag k="addr:postcode" v="ZE2 9LW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-73" lat="60.25506776391949" lon="-1.4638617614157767">
+    <tag k="addr:postcode" v="ZE2 9LZ"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-74" lat="60.25353863098599" lon="-1.4042126002777138">
+    <tag k="addr:postcode" v="ZE2 9NA"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-75" lat="60.25306546837009" lon="-1.398837392392471">
+    <tag k="addr:postcode" v="ZE2 9NN"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-76" lat="60.24445494649516" lon="-1.5202607599404065">
+    <tag k="addr:postcode" v="ZE2 9NP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-77" lat="59.99596341392151" lon="-1.2425816479161758">
+    <tag k="addr:postcode" v="ZE2 9NU"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-78" lat="60.44499737785259" lon="-1.253455977827992">
+    <tag k="addr:postcode" v="ZE2 9QR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-79" lat="60.36381376395404" lon="-1.3838751311176898">
+    <tag k="addr:postcode" v="ZE2 9QW"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-80" lat="60.46076600361004" lon="-1.1803658317865031">
+    <tag k="addr:postcode" v="ZE2 9TG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-81" lat="60.438421001756794" lon="-1.2705952423392526">
+    <tag k="addr:postcode" v="ZE2 9UP"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-82" lat="60.44436058306826" lon="-1.2763864867114414">
+    <tag k="addr:postcode" v="ZE2 9UR"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-83" lat="60.5858036011558" lon="-1.3374373184760375">
+    <tag k="addr:postcode" v="ZE2 9XG"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+</osm>
