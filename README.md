@@ -23,10 +23,10 @@ Postcodes in the UK are very commonly used for geocoding. In general, a postcode
 
 ### Pre-generated .osm files in codepo_gb directory
 
-A `codepo_gb` directory contains three versions of `.osm` files converted from source `.csv` files provided by Ordnance Survey. The variants are:
-1. `codepo_gb/centroids` - all CodePoint Open centroids. Each object is tagged with an `addr:postcode` tag and a `removemelater=yes` marker assisting in the cleaning process.
-2. `codepo_gb/centroids_not_in_osm` - centroids without a corresponding OSM object (with `addr:postcode` tag) within an approximately 10m radius. Recommended for partially mapped areas without nearby buildings in the OSM database.
-3. `codepo_gb/centroids_near_buildings` - as above, but with OSM buildings nearby. Recommended as a starting point for areas with buildings.
+A `osm_files` directory contains three versions of `.osm` files converted from source `.csv` files provided by Ordnance Survey. The variants are:
+1. `osm_files/centroids` - all CodePoint Open centroids. Each object is tagged with an `addr:postcode` tag and a `removemelater=yes` marker assisting in the cleaning process.
+2. `osm_files/centroids_not_in_osm` - centroids without a corresponding OSM object (with `addr:postcode` tag) within an approximately 10m radius. Recommended for partially mapped areas without nearby buildings in the OSM database.
+3. `osm_files/centroids_near_buildings` - as above, but with OSM buildings nearby. Recommended as a starting point for areas with buildings.
 
 A typical workflow may look as follows (jOSM only):
 1. (optional) Set up Ragged Red Code-Point Open tile background layer for previewing surrounding postcodes when no centroid files are loaded
