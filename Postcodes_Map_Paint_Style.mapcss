@@ -1,0 +1,57 @@
+
+meta   
+{
+	title: "Highlight Postcodes";
+	author: "ndrw6"; 
+	version: "1.0_2018-10-26"; 
+	description: "Style to ease mapping of Postcode by colouring streets and houses and nodes";
+}
+	
+/* highlight buildings and nodes with addr:postcode */
+
+area[building]["addr:postcode"]
+{ 
+	color: #44ffff;
+	fill-color: #44ffff;
+	text-halo-color: #44ffff;
+}
+node["addr:postcode"]::halo
+{
+	symbol-fill-color: #44ffff;
+	symbol-shape: circle; 
+	symbol-size: 20;
+	z-index: -1;
+}
+
+/* display postcode labels */
+node["addr:postcode"] 
+{
+	text: tag("addr:postcode");
+	font-size: 12;
+	text-color: #4444ff; 
+} 
+area[building]["addr:postcode"] 
+{
+	text: tag("addr:postcode");
+	text-position: center;
+	text-color: #4444ff; 
+	font-size: 12;
+}
+
+/*
+area[building]["addr:postcode"]["addr:street"]
+{
+	text: concat(tag("addr:postcode"), "; ", tag("addr:street"));
+	text-position: center;
+	text-color: #4444ff; 
+	font-size: 12;
+}
+
+area[building]["addr:postcode"]["addr:street"]["addr:housenumber"]
+{
+	text: concat(tag("addr:postcode"), "; ", tag("addr:housenumber"), " ", tag("addr:street"));
+	text-position: center;
+	text-color: #4444ff; 
+	font-size: 12;
+}
+*/
