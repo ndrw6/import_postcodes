@@ -111,8 +111,6 @@ def read_codepoint_open_file(filename):
     
     print("  Reading centroids data")
     centroids = gpd.GeoDataFrame(df, crs='+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +datum=OSGB36 +units=m +no_defs')
-    # +/- 10m search area
-    centroids['Area'] = centroids.buffer(10).envelope
     centroids = centroids.to_crs('+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs +towgs84=0,0,0')
 
     # find centroids, which are NOT in OSM data (within ~10m radius)
