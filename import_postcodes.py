@@ -18,7 +18,7 @@ path_out = 'osm_files'
 # ignore the projection (use lat/lon in degrees) to speed up the code
 # search area ends up elliptical but that's good enough for checking if a Code-Point Open
 # centroid is near the OSM postcode/building
-distance = 0.0002
+distance = 0.0001
 
 class PostcodeHandler(osmium.SimpleHandler):
     def __init__(self):
