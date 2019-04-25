@@ -119,6 +119,7 @@ def read_codepoint_open_file(filename):
     pcs_in_osm = pcs_in_osm[pcs_in_osm['Postcode_left']==pcs_in_osm['Postcode_right']]
     pcs_in_osm = pcs_in_osm.drop_duplicates(subset=['Postcode_left'])
     centroids_not_in_osm = centroids.loc[~centroids.Postcode.isin(pcs_in_osm.Postcode_left)]
+    centroids_not_in_osm = centroids_not_in_osm.loc[centroids_not_in_osm.Positional_quality_indicator <= 20]
     
     # find missing centroids, which are near OSM buildings
     print("  Finding missing centroids near OSM buildings")
@@ -126,6 +127,7 @@ def read_codepoint_open_file(filename):
     pcs_near_buildings = pcs_near_buildings[pcs_near_buildings['Postcode']!='null']
     pcs_near_buildings = pcs_near_buildings.drop_duplicates(subset=['Postcode'])
     centroids_near_buildings = centroids.loc[centroids.Postcode.isin(pcs_near_buildings.Postcode)]
+    centroids_near_buildings = centroids_near_buildings.loc[centroids_near_buildings.Positional_quality_indicator <= 20]
     return centroids, centroids_not_in_osm, centroids_near_buildings
 
 def write_osm_file (gdf, filename):
