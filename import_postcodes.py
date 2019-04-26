@@ -155,15 +155,16 @@ def process_all_files():
         if filename.endswith(".csv"):
             name = os.path.splitext(filename)[0]
             area_list.append(name)
-            process_postcode_area(name)
-            gc.collect()
+            #process_postcode_area(name)
+            #gc.collect()
         else:
             continue
     #p = multiprocessing.Pool(multiprocessing.cpu_count())
-    #p = multiprocessing.Pool(1)
-    #result = p.map(process_postcode_area, area_list)
-    #p.close()
-    #p.join()
+    p = multiprocessing.Pool(4)
+    #p = multiprocessing.Pool(1) # use if you have 16GB of free memory or less
+    result = p.map(process_postcode_area, area_list)
+    p.close()
+    p.join()
 
 if __name__ == '__main__':
     OSM_Postcodes = readOSMPostcodes()
