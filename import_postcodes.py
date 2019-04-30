@@ -28,14 +28,14 @@ class PostcodeHandler(osmium.SimpleHandler):
     def node(self, n):
         if 'addr:postcode' in n.tags:
             wkbshape = wkbfab.create_point(n)
-            shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3).envelope
+            shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3)
             self.osm_data.append([n.tags['addr:postcode'], shapely_obj])
 
     def area(self, a):
         if 'addr:postcode' in a.tags:
             try:
                 wkbshape = wkbfab.create_multipolygon(a)
-                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3).envelope
+                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3)
                 self.osm_data.append([a.tags['addr:postcode'], shapely_obj])
             except osmium.InvalidLocationError:
                 pass
@@ -46,7 +46,7 @@ class PostcodeHandler(osmium.SimpleHandler):
         if 'addr:postcode' in r.tags and 'type' in r.tags and r.tags['type'] == 'multipolygon':
             try:
                 wkbshape = wkbfab.create_multipolygon(r)
-                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3).envelope
+                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3)
                 self.osm_data.append([r.tags['addr:postcode'], shapely_obj])
             except osmium.InvalidLocationError:
                 pass
@@ -62,7 +62,7 @@ class BuildingHandler(osmium.SimpleHandler):
         if 'building' in a.tags:
             try:
                 wkbshape = wkbfab.create_multipolygon(a)
-                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3).envelope
+                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3)
                 self.osm_data.append([shapely_obj])
             except osmium.InvalidLocationError:
                 pass
@@ -73,7 +73,7 @@ class BuildingHandler(osmium.SimpleHandler):
         if 'building' in r.tags and 'type' in r.tags and r.tags['type'] == 'multipolygon':
             try:
                 wkbshape = wkbfab.create_multipolygon(r)
-                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3).envelope
+                shapely_obj = shapely.wkb.loads(wkbshape, hex=True).buffer(distance,resolution=3)
                 self.osm_data.append([shapely_obj])
             except osmium.InvalidLocationError:
                 pass
