@@ -907,28 +907,28 @@
     <tag k="addr:postcode" v="AL10 9JG"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-228" lat="51.76232606628814" lon="-0.2439074381272371">
+  <node id="-228" lat="51.77496653827867" lon="-0.23295129439409265">
+    <tag k="addr:postcode" v="AL10 9JX"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-229" lat="51.76232606628814" lon="-0.2439074381272371">
     <tag k="addr:postcode" v="AL10 9NA"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-229" lat="51.75287690614615" lon="-0.24220219196364806">
+  <node id="-230" lat="51.75287690614615" lon="-0.24220219196364806">
     <tag k="addr:postcode" v="AL10 9PN"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-230" lat="51.763590177798655" lon="-0.24124991946872107">
+  <node id="-231" lat="51.763590177798655" lon="-0.24124991946872107">
     <tag k="addr:postcode" v="AL10 9RD"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-231" lat="51.763590177798655" lon="-0.24124991946872107">
+  <node id="-232" lat="51.763590177798655" lon="-0.24124991946872107">
     <tag k="addr:postcode" v="AL10 9RE"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-232" lat="51.763494457770314" lon="-0.2408623700966695">
+  <node id="-233" lat="51.763494457770314" lon="-0.2408623700966695">
     <tag k="addr:postcode" v="AL10 9RQ"/>
-    <tag k="removemelater" v="yes"/>
-  </node>
-  <node id="-233" lat="51.76488409688059" lon="-0.23818531697631154">
-    <tag k="addr:postcode" v="AL10 9TL"/>
     <tag k="removemelater" v="yes"/>
   </node>
   <node id="-234" lat="51.772726203109336" lon="-0.24366320919864498">
