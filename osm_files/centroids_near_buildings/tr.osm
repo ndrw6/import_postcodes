@@ -15267,19 +15267,23 @@
     <tag k="addr:postcode" v="TR9 6TJ"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-3818" lat="50.42828430679237" lon="-4.950234993766536">
+  <node id="-3818" lat="50.39613262067952" lon="-4.939315230393731">
+    <tag k="addr:postcode" v="TR9 6TS"/>
+    <tag k="removemelater" v="yes"/>
+  </node>
+  <node id="-3819" lat="50.42828430679237" lon="-4.950234993766536">
     <tag k="addr:postcode" v="TR9 6TT"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-3819" lat="50.43004209967008" lon="-4.94831644627539">
+  <node id="-3820" lat="50.43004209967008" lon="-4.94831644627539">
     <tag k="addr:postcode" v="TR9 6TU"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-3820" lat="50.43087968523904" lon="-4.949340219773521">
+  <node id="-3821" lat="50.43087968523904" lon="-4.949340219773521">
     <tag k="addr:postcode" v="TR9 6TY"/>
     <tag k="removemelater" v="yes"/>
   </node>
-  <node id="-3821" lat="50.430445606164525" lon="-4.948721758451888">
+  <node id="-3822" lat="50.430445606164525" lon="-4.948721758451888">
     <tag k="addr:postcode" v="TR9 6TZ"/>
     <tag k="removemelater" v="yes"/>
   </node>
